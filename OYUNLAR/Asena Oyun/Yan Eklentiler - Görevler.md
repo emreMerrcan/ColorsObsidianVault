@@ -1,0 +1,4 @@
+# Kara Yürek
+Oyuncuyu ekranın köşelerinde izleyen bir gölge, görünür görünmez hemen kayboluyor. Hikayede bir noktada bir kitap elde ediyoruz ve diyor ki sana dadanmış canavarla yüzleşmek için onunla karşılaşmanda ona bir isim bağır. Akşam ay tepedeyken ismi an ve tüm ışıkları söndür. Bu olunca gölge kampımızın hemen çıkışında beliriyor ve bu giz cadısı kara yürekle bir diyaloğumuz geçebiliyor ama hepsi bu kadar.
+# Kar Topu Savaşı
+Yerden kar alıp dostumuza atabildiğimiz iki sekans, ilki üçüncü kısımda, kültist oğlana, diğeride kampta, sedine e karşı olacak. WASD hareketleri aynı ama kendi alanını terk edemiyorsun. Dash çok daha kısa. Z ye basınca kartopun yoksa alıyor, Z ye basınca otomatik nişan alıp fırlatıyor. Olay rakibin animasyonunu tutturup kaçamayacağı açıdan vurmak. Sedine'in hareket hızı, animasyon süresi ve dash sıklığı daha iyi. Bütçe yeterse babasıyla kar topu oynadığı bir kare ekle oyuna ve bu savaşın sedine ile bittiği nokta olsun.

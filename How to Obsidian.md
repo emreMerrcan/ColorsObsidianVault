@@ -1,0 +1,13 @@
+- hold ctrl to drag note page
+- double brackets to create links, can be searchable, now it is its own note, simply select a text and press left bracket twice to create a link simply
+- Ctrl+B bold, Ctrl+I italize, Put a # to create different punto headers, Surround text with two ~ to cross over and with two = to highlight
+- > sign on the beginning so it will be a quote
+- -[] will create a checklist box
+- three - s will create a divider
+- hiding a text is [the text](hiding part)
+- Ctrl+Alt+Sağ/Sol ok ileri geri gitmeni sağlar
+- Ctrl+T = new tab, Ctrl+W closes it
+- If you put ! before the link of an another note, that note page gets displayed on the page
+- If put ! before an external link, and its of an image, it will be displayed
+- Ctrl+P = Command Shortcuts Menu
+- Ctrl+O = Quick Search for a note

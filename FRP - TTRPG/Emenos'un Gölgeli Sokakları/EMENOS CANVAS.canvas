@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"a4db151c926a6a66","x":360,"y":-479,"width":400,"height":400,"color":"5","type":"file","file":"FRP - TTRPG/Emenos'un Gölgeli Sokakları/Karakterler/Gael.md"},
+		{"id":"ae7fabd48bf1f8d8","type":"file","file":"FRP - TTRPG/Emenos'un Gölgeli Sokakları/Karakterler/Karmino.md","x":760,"y":-479,"width":400,"height":400,"color":"5"},
+		{"id":"eac47b35dac16536","type":"file","file":"FRP - TTRPG/Emenos'un Gölgeli Sokakları/Karakterler/Leila Sarıkız.md","x":760,"y":-79,"width":400,"height":400,"color":"5"},
+		{"id":"3d6104458d2f94b0","type":"file","file":"FRP - TTRPG/Emenos'un Gölgeli Sokakları/Karakterler/Manjusha.md","x":1160,"y":-479,"width":400,"height":400,"color":"5"},
+		{"id":"657b04b39552decb","type":"file","file":"FRP - TTRPG/Emenos'un Gölgeli Sokakları/Karakterler/Raymond Mendelez.md","x":1160,"y":-79,"width":400,"height":400,"color":"5"},
+		{"id":"d2330762dabbb75f","type":"file","file":"FRP - TTRPG/Emenos'un Gölgeli Sokakları/Karakterler/Serena Mays.md","x":1560,"y":-479,"width":400,"height":400,"color":"5"},
+		{"id":"96aa7641b190bff5","type":"file","file":"FRP - TTRPG/Emenos'un Gölgeli Sokakları/Karakterler/Ulmo Maxwell.md","x":1560,"y":-79,"width":400,"height":400,"color":"5"},
+		{"id":"04f39afd87c3be46","type":"file","file":"FRP - TTRPG/Emenos'un Gölgeli Sokakları/Taraflar.md","x":360,"y":-79,"width":400,"height":800,"color":"5"},
+		{"id":"8d235a7b5179221d","type":"file","file":"FRP - TTRPG/Emenos'un Gölgeli Sokakları/Sonraki Session Notları.md","x":-260,"y":-479,"width":620,"height":1200,"color":"1"},
+		{"id":"dd7272e0c0a64bb0","type":"file","file":"FRP - TTRPG/Emenos'un Gölgeli Sokakları/OLAYLAR.md","x":-920,"y":-479,"width":660,"height":1200,"color":"5"},
+		{"id":"95e9fc71639fdb40","type":"file","file":"FRP - TTRPG/Emenos'un Gölgeli Sokakları/Geçmiş Session'lar deposu.md","x":-1320,"y":-479,"width":400,"height":1200,"color":"5"}
+	],
+	"edges":[]
+}

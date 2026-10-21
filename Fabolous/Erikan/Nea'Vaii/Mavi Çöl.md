@@ -1,0 +1,3 @@
+"Toprağın gözleri vardır ve rüzgar her bir fılıstını dinleyip anlar."
+
+Haberciler denen bir meslek sınıfı, uzak mesafelere haberler ileten yolculardır ve bütün hayatlarını bu işi yaparak geçirirler. Hiçbir toplum bu insanlara zarar vermez ve verilmesi de diğer toplumlar tarafından afaroz edilmekle cevaplandırılır. Bu haberciler mavi toprakları anlar ve onunla bir uyum içinde, diğer göçebe toplumların esrarengiz kabul edeceği hızlarda yol kat ederler.

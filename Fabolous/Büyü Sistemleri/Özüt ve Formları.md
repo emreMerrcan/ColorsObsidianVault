@@ -1,0 +1,11 @@
+Marlon'un Kıvılcımı: Özütün en yüksek formudur ve var olduğunda kendi tekilliğini oluşturur. Laia'dan kalan tanrı özünün ters mühendislikle tekrar elde edilişidir ve Fabolous içerisinden bir varlık tarafından elde edilip kontrol altına alınamaz. 
+
+Saf Özüt: Bilinen en yüksek özüt formudur. Çok dengesiz ve etkileşime açık bir plazma gibi davranır. Her teması son derece beklenmedik tepkiler doğurabilir. Maddeyle etkileşimi onu yükseltgeyebilir ya da dönüştürebilir. Başka enerjilerle etkileşimi onu bu enerjilere dönüştürebilir ya da o enerjileri yükseltgeyebilir. Bir ruh veya üst boyuttan bir düşünce formuyla etkileştiğinde bu formlar çalkalanarak bütün sofistike yapılarını yitirir, dikkatle üzerine ebru sanatı yapılmış bir suyu çalkalamaya benzer. Karmaşık boyaların tek bir renge dönüştüğü tek bir su kalır ve ruh ölür. Saf özütün farklı miktarları farklı şekillerde etkileşime sebep olabilir. Örneğin onları kontrollü şekilde saklamanın tek yolu olan Taryen taşları ile etkileşmek kişinin ruhunu bozmaktansa ona özüt sağlar.
+
+Kara Özüt: 
+
+Haron: Dalgalar halinde yayılan bir enerji formu. Bu dalgalar başka enerji bulutlarını yükseltgeyen ve maddeyle etkileştiklerinde fotonların yayılmasına sebep olan özüt formlarıdır. Dalga hızları ses hızından biraz daha hızlıdır ve bu yüzden hem bildiğimiz anlamda ışık hemde Haron yayan güneş normal ışık yayışının üstüne onu arkadan takip edercesine gelen bir ışık dalgasıyla ilerler gibi gözükür. Bu dalgaların yeryüzüne vurduğu saa
+
+Atom ve Parçacıklar: Fotonlar, elektronlar ve daha sayısız parçacık Ainex'in koyduğu kurallardan gelen ve özüt tabanlı olmayan enerji formlarıdır ancak evren özütün indirgenmesiyle bu tanecikleri oluşturur ve bu tanecikler birbirleriyle bildiğimiz dünyamızda beklediğimiz şekillerde etkileşirler. Yani evet Fabolous'ta bir parçacık hızlandırıcı ya da atom bombası yapmak mümkün. Ancak örneğin radyasyonun özütle etkileşim biçimi farklı, taneciklerden yayılan titreşim dediğimiz ses ve ısı kavramları yine özütü yükseltgeyen şeyler. 
+
+Tiraç: Titreşimlerin alçalmış özütün bir kısmının belirli formlarda salınmasıyla ortaya çıkan enerji. Kozmos zırhları yoğun maddeleri aşırı titreştirrip kendisiyle yükseltgeyerek bütün maddeyi alçalmış bir bütünlük kazandırır.

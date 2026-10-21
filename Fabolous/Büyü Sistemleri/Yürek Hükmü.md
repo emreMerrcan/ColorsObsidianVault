@@ -1,0 +1,1 @@
+Elruna duygu materyalizasyonları, antik boşluklar, çobanların her erikjandaki vukuatı ve bunun çoban olmayan insanlarca erişimi

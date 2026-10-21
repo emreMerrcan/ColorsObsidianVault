@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "9a00031abdf10759",
+    "type": "split",
+    "children": [
+      {
+        "id": "2464f59573444e5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "055441eae4744506",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OYUNLAR/Asena Oyun/Combat and Mechanics Design.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Combat and Mechanics Design"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9cc00bb31ac60032",
+    "type": "split",
+    "children": [
+      {
+        "id": "3294da4e2c4fc5bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c5c7df0275ea6c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "da425b511ec5b538",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a447e6e057216520",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 259.5
+  },
+  "right": {
+    "id": "7a4f5b8acdd5ee30",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb31ee5f282226a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc165d65752b987b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "OYUNLAR/Fabulous Centuries/Card Game Design Document.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ac5f512ed1956a79",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "OYUNLAR/Fabulous Centuries/Card Game Design Document.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "c3284ec4cbb7b7c1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "daeb8782e5541637",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "OYUNLAR/Fabulous Centuries/Card Game Design Document.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "45813f788abfe57d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "055441eae4744506",
+  "lastOpenFiles": [
+    "Untitled.base",
+    "Untitled 1.base",
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Hikaye & Olay Dizisi/Ametist Hayalet ve Son Işık Direnişi.md",
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Hikaye & Olay Dizisi/Aksaağaç Tavernası . Xanleaf.md",
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Hikaye & Olay Dizisi/Akılsızlar.md",
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Hikaye & Olay Dizisi/Tavus Sarayı.md",
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Hikaye & Olay Dizisi/Suskunlar.md",
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Hikaye & Olay Dizisi/Safir Efendiler ve Mavi Keşişler.md",
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Hikaye & Olay Dizisi/Razae Upariez, yükselen hüküm.md",
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Hikaye & Olay Dizisi/Razae Marhaz.md",
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Hikaye & Olay Dizisi/Palamud Yarasaları.md",
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Hikaye & Olay Dizisi/Müptelalar.md",
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Hikaye & Olay Dizisi/Kalan Her Şey.md",
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Hikaye & Olay Dizisi/Hovoz'un Madenleri.md",
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Hikaye & Olay Dizisi/Hikaye & Olay Dizisi.md",
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Hikaye & Olay Dizisi/Geçit Bekçileri.md",
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/NAXAL CANVAS.canvas",
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Arşiv/AMBIANCE.md",
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Arşiv/Dövüş Arşivi, Düşmanlar ve Karşılaşmalar.md",
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Arşiv/Eşya ve Kavram Arşivi.md",
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Arşiv/Session Takip ve Notları.md",
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Arşiv/Ton ve Eğilimler.md",
+    "FRP - TTRPG/Emenos'un Gölgeli Sokakları/Sonraki Session Notları.md",
+    "FRP - TTRPG/SYSTEM DESIGN/Style Notes.md",
+    "NOTLAR/Blender.md",
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Karakterler/Jish'Ajinn.md",
+    "Untitled",
+    "FRP - TTRPG/SYSTEM DESIGN/NERRATIVE SYSTEM.md",
+    "OYUNLAR/Fabulous Centuries/Card Game Design Document.md",
+    "attachments/Pasted image 20260929221836.png",
+    "attachments/Pasted image 20260815144713.png",
+    "attachments/Pasted image 20260815144700.png",
+    "attachments/Pasted image 20260815144651.png",
+    "attachments/Pasted image 20260815144641.png",
+    "attachments/Pasted image 20260815144631.png",
+    "attachments/Pasted image 20260815144620.png",
+    "attachments/Pasted image 20260815144453.png",
+    "NOTLAR/Untitled",
+    "NOTLAR",
+    "OYUNLAR/WinterTale",
+    "attachments/ccc2312ffe5713af4230149eda15ab1d.jpg",
+    "attachments/c91245a72c471af7b6e2035e115f90ea.jpg",
+    "FRP - TTRPG/Cyberpunk",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "DONE & GONE",
+    "OYUNLAR/KSM",
+    "OYUNLAR/FasterPunch",
+    "FRP - TTRPG/Emenos'un Gölgeli Sokakları/EMENOS CANVAS.canvas",
+    "Fabolous/Erikan/Aldha'Menor/Aldha'Menor.canvas",
+    "Fabolous/Büyü Sistemleri/Büyü Sistem Haritası.canvas",
+    "Fabolous/Fabolous Diyarı.canvas",
+    "OYUNLAR/ForABetterDay/Oyun Şeması.canvas",
+    "Emenos Hierarchy/Hiyerarşi.canvas"
+  ]
+}

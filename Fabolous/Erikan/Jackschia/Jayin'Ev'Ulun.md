@@ -1,0 +1,1 @@
+İsim bence bu olmalı, jakzia ismi çok zaemphea vari, kendi şarkıcı ismi olmalı

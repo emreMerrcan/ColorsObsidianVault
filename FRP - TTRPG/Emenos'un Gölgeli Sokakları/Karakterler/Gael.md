@@ -1,0 +1,1 @@
+The pale palace accepts Gael's heart in solitude, and an army of eternal mourning arises, all in admiration to her.

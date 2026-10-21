@@ -1,0 +1,1 @@
+siyasetten kaçacak amentenoların ya da geçmiş kralların zırh giyinerek sorumluluklarını reddetmeleri

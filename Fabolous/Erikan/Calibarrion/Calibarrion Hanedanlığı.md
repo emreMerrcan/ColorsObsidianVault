@@ -1,0 +1,1 @@
+Ana Fikir: Gizemler ve mucizelerle dolu bir dünyanın keşfi ve istismarı

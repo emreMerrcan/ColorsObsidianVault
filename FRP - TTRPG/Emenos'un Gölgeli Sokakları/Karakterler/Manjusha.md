@@ -1,0 +1,12 @@
+Manjusha karminoyu öğrenirse, getir o kızı, süikastçinin konumunu bulayım, bir yandan da sevgilisini çözerim der AMA onu ikna etmek gerekmektedir ki zor
+
+Gece gizi zihin aleti, iki ucundan beşer parmağını geçirdiğin bir örgüyü katlanmış şekilde taşıyorsun ve birinin suratına doğru örgüyü ansızın gerdirerek açtığında bir ışık patlıyor (o kişinin zihninde sadece) ve örgüye bakıyorsa o anda bu kişi bayılıyor ve zihni girişe açık kalıyor
+
+Manjusha'nın magic sistemi
+Dokunarak beyinlere düşünceler constructlayabiliyo
+Uzaktayken alan etkili yanılasamalar yaratım sersemletebiliyor, yılanlar eşlik ediyor ona ve ısırdıkları yerler savaş bitene dek gerçekten hasarlı sayılıyo, bu şekilde bayıltabildiğinden gerçekten farkı var mı? Duvarlar örüp görüntü değiştirebiliyor, hepsi intelligence la
+
+Manjusha gece gizi cadılarının uyguladığı bir üst büyü yöntemine maruz kalmış birisi. Çocukların zihin dünyası her duruma milyon kat daha adaptif ve reseptif olduğundan kişileri bu çocuksu, sosyal birimi az ve dayima aşırı meraklı yapılarını korumalarına sebep olan mental bir bariyer inşa ediyorlar. Bu mental bariyer kişi büyüyüp yeni şeyler öğrense de bu yönlerinin yok olmasına engel oluyor (binevi frontal loblarının gelişimini durduruyor). İşinin amiri cadılar bu bloğu kaldırıp açabilir ve hatta zihinlerini yapay şekilde yaşlandırabilirler. Bazı cadıların pek çok insanın zihin birikimini emerek yüzyıllara tekabül eden anı ve bilgi birikimi edindikleri bilinir. Manjushaysa bu işe girişmemiş, zihnini saflığını korumuştur. Zira bir zihin cadısı, derinlemesine etkileştiği zihinlerle kaynaşarak kendi kimliğini kaybetmeye başlar. Bu en güçlü düşünce süreci el koyma (başkasının beyni ve perspektifini kullanarak kendin bir şey düşünme) ve anı manüpilasyonlarında yaşanır. Manjusha'nın yediği oğlanın anıları bu konuda ona bela olmuştur.
+
+Cinsellik:
+Manjusha biraz örtülü bir bi aslında ancak kendisi net bir şekilde beylerden hoşlanıyor. Gael'le dinamiklerindeyse bir genç kız yakınlığı göz önünde olacak, daha derin bir cinsel arzu beslediği yok. Kızların birbirine serbestçe dokunduğu, sarmaş dolaş uyuduğu ve vücutlarını yorumladığı tipten bir kişi. Hatta en başından beri yaptığı flörtöz yorumlar bu yanının delaletiydi ki Gaelin gerçekten kadınlardan hoşlandığını öğrenince bunlara ara verdi. Şu an kurdukları kardeşvari dinamik güçlendikçe bu yön flörtöz olmadan, ancak manjushanında göreceli olarak meraklı olduğu bir dinamikle geri gelecek. 

@@ -1,0 +1,5 @@
+Erikan: Bilinçli canlı demektir. Yalnızca konuşma ya da alet kullanma becerisini değil, neredeyse hayvansı sayılabilecek bir limite kadar inebilen geniş bir tanımdır.
+
+Pinaar: Güneş'in yaydığı, direkt foton şeklinde davranan ışıktan farklı olarak dalgalar halinde yayılan ve daha düşük bir hıza sahip artçık ışık dalgasıdır. Güneşin etrafında halkalar var gibi gözükmesine ve gökte ilerledikçe onu yarıyormuş gibi gözükmesine sebep olur. Doğuya olan yakınlığa bağlı olarak Pinaar ışığının vurma süresi değişir. Batıdaki bir yerleşke doğrudan alırken Pinaar dalgasının oraya vurması ikindini bulur. Doğudaki yerleşkelerde ise güneş doğduktan çok kısa bir süre sonra (öğlen ışıması) vakti yaşanır.
+
+Şipaar Vakti: Güneş battıktan sonra yer yüzüne hala vurmakta olan Pinaar'den ötürü mevsimden mevsime değişse de ortalama 10 dakika kadar süren bir ışık fenomenidir. Yer, güneşin direkt ışığından kurtulsa da hafif bir aydınlık yayarak parlamaya devam eder.

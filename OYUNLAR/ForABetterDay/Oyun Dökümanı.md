@@ -1,0 +1,6 @@
+**Proje Yapılacaklar:**
+- Yeni savaş sistemini kodla, yer saldırılarını, basarak vurunca zıplatma olayını (3 defa vurunca da zıplayabilir ikisini de dene) ve havada vurduğunda o kamera titremesini ve oyun durmasını ve hareketi implemente et
+- Projeyi yapmaya başla. Kuyruğumuzdan asılı şekilde sarkarak uyanacak karakterimiz ve 
+
+**Proje Özeti:**
+Oyuncunun ilerleyen ve bir finale yürüyen olaylar dizisinin içerisinde farklı insanların hayatlarına müdahale ederek normalde olacak şeyleri değiştirmesini anlatan bir oyun olacak bu. Kimin kaderinde yollarına çıkıp hayatlarını etkileyeceğin ve etkilemeyeceğin sana kalmış durumda. Ancak dünya bu olayların sonuçlarının kompleks bir sebep sonuç ağı ile sonuçlarını göstermektense, bu karakterlerin kişisek dünyalarına odaklanıyor. Asıl tema ise bizim karakterimizin asla gerçekten dünyayı veya büyük olayları etkileyecek cinsten önemli bir şey başaramayacak olması. Başarabildiğimiz iki büyük şey oyunun ana finalini değiştirebilmemiz ve bunun ötesinde de bu güneş olayının nerede ve ne amaçla başlatıldığını (kim kısmını öğrenemiyoruz) gün yüzüne çıkarabiliyoruz hepsi bu.

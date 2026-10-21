@@ -1,0 +1,5 @@
+Oyunun en çekici yanı immersion olacak. Animasyonlara abanacak, karakterin eşyalarla etkileşimine, kapı eşiklerinden geçişine ve haritada yürüyüşüne detaylar ekleyeceksin. Joint sistemi kullanarak içinden ve etrafından geçerken sallanan, kıpırdayan çevre elementleri, evlerin interaksiyona girince gıcırdayarak açılan ve karanlıktan aydınlanan iç dizaynları (dışarısı kararıyor karakter içeri girince). Karakterin silahsız yürüyüşü, atılması, oturup külliyat kitabını açması gibi detaylar ve sonra silahını çekip etraftaki eşyaları kırıp katı nesnelere çarpınca geri sekme alması gibi detaylar elzem.
+
+Oyunun önemli bir diğer fantaziside savaş mekanikleri ve karakterimizin gücü. Taktiksel düşmanlara karşı dikkatli ve güçlü darbeler indirmesi, yeteneklerini combo biriktirkçe harcayarak onları kırması, ayırması ve bir bir öldürmesi, büyük ve yenilmez düşmanlardan kaçınarak savaşması ve hızını kullanması, kombo birikince de akın akın gelen düşmanları dash+ağırla hasat etmesi.
+
+Oyun kontrolcüsünde iki şema önerilecek ve kaçınılmaz olarak bir sürü tuşu kullanmaya izin vermek zorundayım.

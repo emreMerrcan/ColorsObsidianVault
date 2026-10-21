@@ -1,0 +1,16 @@
+- Din doğru yaşanmıyor videosu
+- Rüyalarımdaki işaretler ve irade videosu
+- Grind Adam hikayesini geliştirme videosu
+- Grind Adam video hikaye
+- Worldbuilding: Draw the map last! (make a mental map with zeero details, leave it to last)
+- Aslında denemiyorsun: Denedim diyebilmek için, istesen yapardın 15-03-2026
+- Video fikri, gta 6 yı oyna, americanslop diye eleştir, aslında parodi yaptığı fikri ne kadar idealize ettiğini söyle ve yerin dibine sok
+- Arc raiders and death stranding The helping game video idea, how games designed to make you cooperative changes your mind
+- Game Theory ile işlenen bir "kaybetmeyi eğlenceli kıl" dersi, insanın girişimci ve özgür ruhunu en kolay barındırabileceği zihin durumu
+- Kart oyunumun yapım hikayesi, video fikri (ses kaydı var)
+- İnanırsan işini mükemmel yaparsın, ama inanamk öyle kolay değil. Kungfu panda, video fikri
+- video fikri, nasıl insanlarla (kadınlarla) iletişim kurulur (ses)
+- İnsanın entropiyle nihai savaşı, insanın düzene ve birikmeye doğal eğilimi, bir gezgenin ya da yıldızın bile öldürülmesine çok karşı çıkılırdı durumu. Ölü atomların düzene tapan maymunlar yaratması ve antik insanların biriktirerek toplayarak planlayarak hayatta kalması
+- video fikri, how to treat women, how to get people to like you
+- Video fikri, Paul Astreides ve Eren Jeager, mesih konsept incelemesi. Failure ve Prophecy (ereni meydana getiren şeyler, ortadaki kehanet annesinin ölümü ve dünyanın oluşturduğu nefret çemberi. (BUNU DEĞİŞTİRİP, etki tepki kanunundan ve manifestation, self fullfilling propheci üzerine konuşursun, bir mesele üzerine ne kadar düşünürsen o kadar gerçeğe çağırırsın, yalnızca düşünmek bir şeyi yarı var kılar, düşünmek beynini yaşadın kılar (basketbol olayını hatırla))
+- Youtube video fikri, ilk video fantastik haritalar ile alakalı olacak

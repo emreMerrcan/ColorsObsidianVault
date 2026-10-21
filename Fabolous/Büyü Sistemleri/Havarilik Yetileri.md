@@ -1,0 +1,1 @@
+12 tanrının havarilikleri için ayrı şartlar ve istisnalar, yan etkiler

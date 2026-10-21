@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"b5c158e76eda5562","type":"file","file":"FRP - TTRPG/Naxal ve Düşünce İğnesi/Hikaye & Olay Dizisi/Hikaye & Olay Dizisi.md","x":360,"y":-160,"width":600,"height":800,"color":"5"},
+		{"id":"3b13b1f40ba64c3d","type":"file","file":"FRP - TTRPG/Naxal ve Düşünce İğnesi/Arşiv/Ton ve Eğilimler.md","x":960,"y":-160,"width":400,"height":800,"color":"5"},
+		{"id":"4106e47cd2edb73d","type":"file","file":"FRP - TTRPG/Naxal ve Düşünce İğnesi/Arşiv/AMBIANCE.md","x":1360,"y":-160,"width":400,"height":800,"color":"5"},
+		{"id":"460139a1f57e6198","type":"file","file":"FRP - TTRPG/Naxal ve Düşünce İğnesi/SONRAKİ SESSİONLAR İÇİN.md","x":360,"y":680,"width":600,"height":1440,"color":"1"},
+		{"id":"a09b7a1e5379ca39","type":"file","file":"FRP - TTRPG/Naxal ve Düşünce İğnesi/Arşiv/Session Takip ve Notları.md","x":1760,"y":-160,"width":467,"height":800,"color":"5"},
+		{"id":"388998a9a6ca03fd","type":"file","file":"FRP - TTRPG/Naxal ve Düşünce İğnesi/Karakterler/Banx.md","x":960,"y":680,"width":480,"height":700},
+		{"id":"7a38251a21d8b99c","type":"file","file":"FRP - TTRPG/Naxal ve Düşünce İğnesi/Karakterler/Jish'Ajinn.md","x":960,"y":1380,"width":480,"height":740},
+		{"id":"f0edf18c7a321ca7","type":"file","file":"FRP - TTRPG/Naxal ve Düşünce İğnesi/Karakterler/Kian Webb.md","x":1440,"y":680,"width":480,"height":700},
+		{"id":"4b0195d6299dd24f","type":"file","file":"FRP - TTRPG/Naxal ve Düşünce İğnesi/Karakterler/Sanja.md","x":1920,"y":680,"width":480,"height":700},
+		{"id":"02547352e03b67ef","type":"file","file":"FRP - TTRPG/Naxal ve Düşünce İğnesi/Karakterler/Naxal.md","x":1920,"y":1380,"width":480,"height":740},
+		{"id":"d7f61b1ee4ec0d41","type":"file","file":"FRP - TTRPG/Naxal ve Düşünce İğnesi/Arşiv/Dövüş Arşivi, Düşmanlar ve Karşılaşmalar.md","x":-40,"y":-160,"width":400,"height":2280,"color":"5"},
+		{"id":"79011ad3fa71d59e","type":"file","file":"FRP - TTRPG/Naxal ve Düşünce İğnesi/Arşiv/Eşya ve Kavram Arşivi.md","x":-560,"y":-160,"width":520,"height":800,"color":"5"}
+	],
+	"edges":[
+		{"id":"e334644557f1b99a","fromNode":"d7f61b1ee4ec0d41","fromSide":"right","toNode":"460139a1f57e6198","toSide":"top"}
+	]
+}

@@ -1,0 +1,2 @@
+Süh'Evan, Safir kral, safir hayalet, baş Xea'nın kırmızılara sahip olmak yerine perde arkasında hareket edebilen, devasa menzilli anlam gölgeleri oluşturma yeteneği vardır. Morluk döneminde yaşadığı bir kazadan ötürü kalıcı olarak değişmiş, kulakları zihinsel kudretini evrenin anlamlar boyutunda yankılar hale gelmiştir. Kendi gölgesini efsunlar ve şehrin sokaklarında var kılar. Ardından o gölgeyle görür, dinler ve saldırır. Bu gölgeler sayılıdır ve zarar görürlerse yerine konamazlar. Safir renginde, bir kristalin ışıması gibi bir görüntüye sahiptirler.
+

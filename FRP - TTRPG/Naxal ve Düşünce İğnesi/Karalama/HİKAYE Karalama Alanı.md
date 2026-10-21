@@ -1,0 +1,1 @@
+Kesinlikle bir Ajinn'in büyü kaynağını kullanan külte ihtiyacım var. Akılsızlar aynı disiplinle yönetiliyor.
