@@ -1,0 +1,32 @@
+{
+  "enableArtifact": false,
+  "disableClaudeAiConnectors": true,
+  "permissions": {
+    "deny": [
+      "WebFetch",
+      "WebSearch",
+      "Artifact",
+      "ArtifactComments",
+      "ArtifactData",
+      "RemoteTrigger",
+      "mcp__1a59c906-04da-521d-bda7-7f71b9f9e01c",
+      "mcp__claude-in-chrome",
+      "mcp__Claude_Browser",
+      "mcp__ccd_session__move_to_cloud",
+      "Bash(git push*)",
+      "Bash(git remote*)",
+      "Bash(gh *)",
+      "Bash(curl *)",
+      "Bash(wget *)",
+      "Bash(scp *)",
+      "Bash(rsync *)",
+      "PowerShell(git push*)",
+      "PowerShell(git remote*)",
+      "PowerShell(Invoke-WebRequest*)",
+      "PowerShell(Invoke-RestMethod*)",
+      "PowerShell(iwr *)",
+      "PowerShell(irm *)",
+      "PowerShell(curl *)"
+    ]
+  }
+}

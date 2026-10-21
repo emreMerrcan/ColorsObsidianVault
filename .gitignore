@@ -1,0 +1,15 @@
+# Obsidian: per-device UI state, changes on every click
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# Obsidian trash folder
+.trash/
+
+# Claude Code: personal local settings
+.claude/settings.local.json
+
+# OS clutter
+.DS_Store
+Thumbs.db
+desktop.ini

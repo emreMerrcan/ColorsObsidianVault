@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"type":"group","id":"ee30c095a4cd034c","x":200,"y":-300,"width":1160,"height":700,"label":"Aldha'Menor"},
+		{"type":"file","file":"Fabulous/Erikan/Aldha'Menor/Aldha'Menor.canvas","id":"0b6c86e9404f4c4b","x":220,"y":-280,"width":360,"height":180},
+		{"id":"cc50433e10333f20","type":"file","file":"Fabulous/Erikan/Aldha'Menor/Yöneticiler Külliyatı.md","x":600,"y":-280,"width":400,"height":440},
+		{"id":"71d8d18b74056055","type":"file","file":"Fabulous/Erikan/Aldha'Menor/Tarihi ve Dönemleri.md","x":220,"y":-60,"width":360,"height":420}
+	],
+	"edges":[]
+}
