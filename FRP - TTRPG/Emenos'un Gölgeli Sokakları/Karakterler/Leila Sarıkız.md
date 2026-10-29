@@ -5,6 +5,9 @@ Leila zenginliği ve gücü seviyor. Eğer eline para geçerse ailesini ekip bir
 SOLARYUM
 Elenaların yan mekanlarından birinde yüzeyden aynalarla güneş getiren güneşlenme odaları var leila oralarda bronzlaşıyo sürekli
 
+
+Leila Gael'in bu kadar composed olmasına, bu kadar kendi isteğiyle aksiyonlar alabilmesine karşı derin bir kin ve kıskançlık besliyor. Kendisi her uzvundan düğümlenmiş bir bezbebek, ve o özgürlüğü, o dünyaya dokunabilme hissini kıskanıyor. Gael'in derisinin altına girebilmek ve ona zarar vermek, onun duruşunu bozmak, onu öfkeye, duygu hissetmeye zorlamak, Leila'nın olduğu kişiyi koruması, o porselen bez bebeğin var olabilmesi için elzem bir şey.
+
 ### Konuşmalar
 "This is no way to come take someone to a date, have never been thought any manners?"
 

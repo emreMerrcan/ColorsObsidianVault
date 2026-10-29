@@ -1,0 +1,17 @@
+---
+tür: oyun-tasarımı
+proje: "[[NERRATIVE SYSTEM]]"
+durum: taslak
+kaynak: "RulebookPDFS/annie-spratt-6a3nqQ1YwBw-unsplashssv.pdf"
+tags:
+  - ttrpg
+  - sistem-tasarımı
+  - ırk
+---
+
+> [!claude] Claude · 2026-10-24
+> Eski rulebook'un Irklar IV (taslak) sayfasındaki ırk. Sayfadaki metin [[Orenn]] bölümünün yer tutucu kopyası (alt başlık dahil: "War Giants of Targ'Ens"), kararın gereği **kopyalanmadı**; not sadece başlık olarak açıldı. Süreç: [[Rulebook Aktarım Takibi]]. [[General Rulings]]'teki Flesh Binders ve panodaki "Çiğ Halk" ile ilgili olabilir (tahmin).
+>
+> ![[Rulebook - Irklar IV.jpg|600]]
+
+# Raw Binders
