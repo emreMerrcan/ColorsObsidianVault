@@ -104,7 +104,7 @@ Only three PCs appear in the player contrasts in the tone note: Ajinn, Kian and 
 
 ## Rules system
 
-This is the user's homebrew system (`FRP - TTRPG/SYSTEM DESIGN/`). Its pieces:
+This is the user's homebrew system (`FRP - TTRPG/SYSTEM DESIGN/`, hub: `Narrative System/System Hub.md`). This campaign plays the **legacy** version (`LEGACY SYSTEM/`: XP, d100-era SL); the new Narrative System is still being built. Its pieces:
 - **Attributes:** STR / AGL / THG / INT / CHR / WP.
 - **Checks:** SL (success levels), Pace P(n) per action, Endurance, Resistance, Movement, Öz/Essence, keywords and tiers.
 - **XP:** 6900 at the start, aiming for about 20k by session 20. Normal sessions give 300–500, big fights +500, bosses 2–3k.

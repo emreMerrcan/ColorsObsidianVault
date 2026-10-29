@@ -1,7 +1,7 @@
 ---
 yazar: claude
 tür: oyun-tasarımı
-proje: "[[NERRATIVE SYSTEM]]"
+proje: "[[System Hub]]"
 durum: aktif
 tags:
   - ttrpg
@@ -10,7 +10,7 @@ tags:
 
 > [!claude] Claude · 2026-10-29
 > # Yeni Sistem İnşa Panosu
-> Yeni sistemi ([[NERRATIVE SYSTEM]], [[Style Notes]]) kurarken çalışma listesi. İki kısım:
+> Yeni sistemi ([[System Hub]], [[Style Notes]]) kurarken çalışma listesi. İki kısım:
 > - **✅ Kabul:** eskiden gelip yeni sistemle çelişmeyen her şey. Yeni sisteme girecek; taşıyınca kutuyu işaretle.
 > - **🚩 Flag:** yeni sistemde boş duran ya da eski bir şeyin cevap beklediği yerler.
 >
@@ -99,7 +99,7 @@ tags:
 > **Classlar** ([[Style Notes]]'ta sadece "Ziran" başlığı)
 > - [ ] 🚩 Class tanımı (U22)
 >
-> **Birthplace keywordleri** ([[NERRATIVE SYSTEM#Keywords]]'te bir kısmı açıklamasız; aynı adla eski [[Keywords]]'te tanım var)
+> **Birthplace keywordleri** ([[Feats#Keywords]]'te bir kısmı açıklamasız; aynı adla eski [[Keywords]]'te tanım var)
 > - [ ] 🚩 Menora: Strong Resolve, Agonist (eski tanımlar var)
 > - [ ] 🚩 Tayhun: Team Player, Orientation, Many Gestures (eski tanımlar var); Destined: panodaki Seers of Tayhun'da "destined (opt)"
 > - [ ] 🚩 Caliberrian: Shivering Words, Combat Analyst, Lifelong Variety (eski tanımlar var)
@@ -107,7 +107,7 @@ tags:
 >
 > **Skill'ler**
 > - [ ] 🚩 Yeni skill'lerin bağlı stat çiftleri (Accuracy, Combat, Awareness, Craft eskide yok) (U15)
-> - [ ] 🚩 [[NERRATIVE SYSTEM#Skills]]'teki "maxed out" örnek dağılımında eski kısaltmalar duruyor (BL, WP, HEAL, INV, SOH…); yeni listeyle güncellemek isteyebilirsin
+> - [ ] 🚩 [[Stats#Skills]]'teki "maxed out" örnek dağılımında eski kısaltmalar duruyor (BL, WP, HEAL, INV, SOH…); yeni listeyle güncellemek isteyebilirsin
 > - [ ] 🚩 Pure Skills (Animal Care, Mount, Craft) diğerlerinden nasıl ayrışıyor (sıfır toplam kuralına dahil mi?) tanımlı değil
 >
 > **Eksik tablolar** (eski kurallar atıf yapıyor, hiçbir yerde yok)
@@ -116,4 +116,4 @@ tags:
 >
 > **Diğer**
 > - [ ] 🚩 Tokenler ve sayaçlar için eski kuralların yeni adlarla yazılması (U18–U21 cevaplanınca)
-> - [ ] 🚩 Help bölümü ([[NERRATIVE SYSTEM#Help]]) ile eski Aid half action'ı ve Team Player keyword'ü birlikte okunmalı (çelişki yok, birleştirme işi)
+> - [ ] 🚩 Help bölümü ([[Feats#Help]]) ile eski Aid half action'ı ve Team Player keyword'ü birlikte okunmalı (çelişki yok, birleştirme işi)

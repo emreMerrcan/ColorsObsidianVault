@@ -1,7 +1,7 @@
 ---
 yazar: claude
 tür: oyun-tasarımı
-proje: "[[NERRATIVE SYSTEM]]"
+proje: "[[System Hub]]"
 durum: aktif
 tags:
   - ttrpg
@@ -15,9 +15,9 @@ tags:
 > **Üç kural**
 > 1. Eskiden gelip yeni sistemle çelişmeyen her şey kabul. Liste: [[Yeni Sistem İnşa Panosu]].
 > 2. Çelişkiler burada soruluyor: nasıl uyarlanacak.
-> 3. Arşivden hiçbir şey silinmiyor. Eski notlar ([[Kurallar/Combat Rulings|Kurallar]], [[Soul Surge|Beceri Sistemleri]], [[Roll Tables|Tablolar]], [[Arik'Xea|Erikanlar]]) olduğu gibi kalıyor. Yeni sistem notlarına ([[NERRATIVE SYSTEM]], [[Style Notes]]) dokunulmuyor, cevaplara göre sen yazıyorsun.
+> 3. Arşivden hiçbir şey silinmiyor. Eski notlar ([[Combat Rulings|Kurallar]], [[Soul Surge|Beceri Sistemleri]], [[Roll Tables|Tablolar]], [[Arik'Xea|Erikanlar]]) olduğu gibi kalıyor. Yeni sistem notlarına ([[System Hub]], [[Style Notes]]) dokunulmuyor, cevaplara göre sen yazıyorsun.
 >
-> **Yeni sistem** = [[NERRATIVE SYSTEM]] + [[Style Notes]]. **Eski** = rulebook'tan aktarılan notlar.
+> **Yeni sistem** = [[System Hub]] + [[Style Notes]]. **Eski** = rulebook'tan aktarılan notlar.
 > Durum: ⬜ cevap bekliyor · 💬 cevaplandı · ⭐ başka soruları kilitleyen temel soru (önce bunlar).
 > Cevabı `- Cevap:` satırına yazman yeterli; harf de olur ("b, ama…").
 
@@ -31,7 +31,7 @@ tags:
 
 > [!claude] Claude · 2026-10-29
 > ## 1. Zar ve sayısal ölçek
-> **U01** ⭐ ⬜ **d100 sayılarının çevirisi.** Eski kurallarda ±10'luk modifier'lar her yerde: Flanking +20/+40, Pace aşımı -30, Wounds +20/+50/-10, Grapple +20, Dual Wielding +10, Çoklu Hamle +10/+20, menzil dışı -30, Gürültü -20, Fencer +10, Soft Tissue -10, Night Owl +10, Biçim Değişimi +10, Attributes Evolved 10, Severe Deformation ±20, Events Table ±10 stat, Luminary uzuvları +5/+10 STR. Yeni: SL doğrudan, attribute'lar -10…+10 ([[NERRATIVE SYSTEM#Stats]]).
+> **U01** ⭐ ⬜ **d100 sayılarının çevirisi.** Eski kurallarda ±10'luk modifier'lar her yerde: Flanking +20/+40, Pace aşımı -30, Wounds +20/+50/-10, Grapple +20, Dual Wielding +10, Çoklu Hamle +10/+20, menzil dışı -30, Gürültü -20, Fencer +10, Soft Tissue -10, Night Owl +10, Biçim Değişimi +10, Attributes Evolved 10, Severe Deformation ±20, Events Table ±10 stat, Luminary uzuvları +5/+10 STR. Yeni: SL doğrudan, attribute'lar -10…+10 ([[Stats]]).
 > - (a) Tek genel kural: her ±10 = ±1 (SL ya da stat), ±5 = yarım → yukarı/aşağı yuvarla. Notlara dokunulmaz, kural bir kere yazılır.
 > - (b) Genel kural + bazıları için istisna (hangileri?)
 > - (c) Her biri tek tek
@@ -63,7 +63,7 @@ tags:
 
 > [!claude] Claude · 2026-10-29
 > ## 2. İlerleme
-> **U06** ⭐ ⬜ **XP → milestone.** Yeni sistemde XP yok, 44 milestone var ([[NERRATIVE SYSTEM#Progress]]). Eski XP fiyatlı her şey:
+> **U06** ⭐ ⬜ **XP → milestone.** Yeni sistemde XP yok, 44 milestone var ([[Progression]]). Eski XP fiyatlı her şey:
 > - Skill/attribute XP tabloları, keyword her 1000 XP ([[General Rulings]])
 > - Başlangıç XP'si, Random Opening ödülleri (+500 XP, random keyword başına +100 XP) ([[Karakter Açılışı]])
 > - Instrument Aide yetenekleri (100 XP + artan), Extra Abilities (200 XP…)
@@ -80,14 +80,14 @@ tags:
 
 > [!claude] Claude · 2026-10-29
 > ## 3. Karakter açılışı ve statlar
-> **U08** ⭐ ⬜ **Irkların attribute farkı.** Eski: zarla atılıyor, ırka göre zar değişiyor (Kharan AGI `2d10+30`, THG `2d10+10`; Cam Erikan hepsi `3d10+10`…). Yeni: hepsi -5 origin'de, sabit dağılım (+2, +1, +1, -1, -1, -2) ([[NERRATIVE SYSTEM#Progress]]).
+> **U08** ⭐ ⬜ **Irkların attribute farkı.** Eski: zarla atılıyor, ırka göre zar değişiyor (Kharan AGI `2d10+30`, THG `2d10+10`; Cam Erikan hepsi `3d10+10`…). Yeni: hepsi -5 origin'de, sabit dağılım (+2, +1, +1, -1, -1, -2) ([[Progression]]).
 > - (a) Irk, dağılımın üstüne modifier ekler (+10 → +1, -10 → -1)
 > - (b) Irk attribute'a dokunmaz, sadece keyword ve türetilmiş statla ayrışır
 > - (c) Irka özel dağılım şablonu (ör. Kharan'da +2 AGL'ye kilitli)
 > - Ek: Random Opening'deki "attribute'ları rastgele at" seçeneği yeni dağılımda yaşıyor mu (ör. 6 değeri zarla yerleştir)?
 > - Cevap:
 >
-> **U09** ⬜ **Türetilmiş statlar: evrensel formül mü, ırk formülü mü?** Yeni: HEALTH `THGBx2`, END `STRB+WPB`, MOV `AGLB`, PACE `3 + her 4 AGB için 1` ([[NERRATIVE SYSTEM#Attributes]]). Eski ırk sayfaları kendi formülünü veriyor: Oren HP `S+3T+W`, MOV `2AB`; Cam Erikan / Azothan END `no` / `Puppet HP`; Vikos END `3HP`; Dweller PACE 12, Vikos PACE 4…
+> **U09** ⬜ **Türetilmiş statlar: evrensel formül mü, ırk formülü mü?** Yeni: HEALTH `THGBx2`, END `STRB+WPB`, MOV `AGLB`, PACE `3 + her 4 AGB için 1` ([[Stats#Attributes]]). Eski ırk sayfaları kendi formülünü veriyor: Oren HP `S+3T+W`, MOV `2AB`; Cam Erikan / Azothan END `no` / `Puppet HP`; Vikos END `3HP`; Dweller PACE 12, Vikos PACE 4…
 > - (a) Evrensel formül + ırk modifier'ı (ör. Oren HP +X, MOV x2)
 > - (b) Sadece özel durumlar kalır (END yok, Puppet HP, MOV x2), sayısal farklar düşer
 > - (c) Irk formülü evrenseli ezer
@@ -110,7 +110,7 @@ tags:
 > - Ek: Steps of Combat'ı time shard'sız ruling'in metni olarak kabul ediyor musun?
 > - Cevap:
 >
-> **U12** ⬜ **Opposing Tests: ikisi de başarırsa.** Eski: "ikisi de başarırsa ikisi de istediğini yapar, yüksek SL'li yine de işini görür". Yeni: aynı noktada biten iki aksiyonda önce menzil, sonra yüksek SL kazanır ve **kaybeden otomatik başarısız** olur ([[NERRATIVE SYSTEM#Pace]]).
+> **U12** ⬜ **Opposing Tests: ikisi de başarırsa.** Eski: "ikisi de başarırsa ikisi de istediğini yapar, yüksek SL'li yine de işini görür". Yeni: aynı noktada biten iki aksiyonda önce menzil, sonra yüksek SL kazanır ve **kaybeden otomatik başarısız** olur ([[Stats#Pace]]).
 > - (a) Yeni kural her yerde geçerli, eski olan arşivde
 > - (b) Yeni kural sadece shard'lı ruling'lerde, eski kural shard'sız ruling'de
 > - Cevap:
@@ -151,7 +151,7 @@ tags:
 
 > [!claude] Claude · 2026-10-29
 > ## 6. Keywordler
-> **U17** ⬜ **Keyword kategorileri.** Eski 4 tematik kategori (Background / Feature / Proficiency / Others). Yeni 3 işlevsel tip (meslek + advantage / doğrudan +SL ya da etki / sadece özellik) ([[NERRATIVE SYSTEM#Keywords]]). Başlangıç "6 keyword, 2-2-2"; eski oran "4 Background, 2 Feature, 1 Combat".
+> **U17** ⬜ **Keyword kategorileri.** Eski 4 tematik kategori (Background / Feature / Proficiency / Others). Yeni 3 işlevsel tip (meslek + advantage / doğrudan +SL ya da etki / sadece özellik) ([[Feats#Keywords]]). Başlangıç "6 keyword, 2-2-2"; eski oran "4 Background, 2 Feature, 1 Combat".
 > - (a) 4 kategori başlık olarak kalır, her keyword'e yeni tip etiketi eklenir (iki eksen)
 > - (b) Keywordler yeni 3 tipe göre yeniden dağıtılır, eski kategoriler kalkar
 > - Ek: "2-2-2" hangi üç grup? Eski "4-2-1" oranı tavsiye olarak yaşasın mı?

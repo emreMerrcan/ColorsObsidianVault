@@ -1,7 +1,7 @@
 ---
 yazar: claude
 tür: oyun-tasarımı
-proje: "[[NERRATIVE SYSTEM]]"
+proje: "[[System Hub]]"
 durum: aktif
 tags:
   - ttrpg
@@ -11,7 +11,7 @@ tags:
 > [!claude] Claude · 2026-10-21
 > # Rulebook Aktarım Takibi
 > `RulebookPDFS/` klasöründeki eski rulebook sayfalarının Obsidian'a taşınma süreci. Her PDF tek sayfalık bir görsel (içinde metin katmanı yok), yani metinler elle, **birebir** kopyalanacak, hiçbir kelimeye dokunulmayacak.
-> **Kural:** Obsidian'daki içerik ([[NERRATIVE SYSTEM]], [[Style Notes]]) en güncel versiyon. PDF'le çelişen yerde Obsidian kazanır, PDF metni yine de kaybolmadan saklanır.
+> **Kural:** Obsidian'daki içerik ([[System Hub]], [[Style Notes]]) en güncel versiyon. PDF'le çelişen yerde Obsidian kazanır, PDF metni yine de kaybolmadan saklanır.
 
 > [!claude] Claude · 2026-10-21
 > ## Durum anahtarı
@@ -48,15 +48,15 @@ tags:
 >
 > | Konu | PDF (eski) | Obsidian (güncel) | Kaynak |
 > |---|---|---|---|
-> | Zar / SL | d100, stat'ı geçtiğin her 10 = 1 SL, 2d10+20 attribute | d10'a geçiş, 1 ve 10 crit; attribute'lar origin noktasına göre (-5 → 0), -10…+10 aralığı | [[NERRATIVE SYSTEM#Stats]] |
-> | Skill listesi | 19 skill: Weapon Skill, Balistic Skill, Healing, Investigation… | Yeni liste: Accuracy, Combat, Awareness, Instincts, Survival, Scholar, Cognition, Focus… + Pure Skills (Animal Care, Mount, Craft) | [[NERRATIVE SYSTEM#New Skills]] |
-> | Skill limiti | aynı seviyede 4 skill slotu | aynı seviyede max 2 skill, biri artarsa diğeri düşer | [[NERRATIVE SYSTEM#Skills]] |
-> | İlerleme | XP + 7 Tier (3000xp → 50.000xp) | 44 milestone, Tier 1–5 şeması, kampanya uzunluğuna göre tempo | [[NERRATIVE SYSTEM#Progress]] |
-> | Pace | herkes 10 (ırka göre), aksiyon başına harcanıyor | 3 + her 4 AGB için 1, 3 time shard, Rogue Pace, 3 ayrı ruling | [[NERRATIVE SYSTEM#Pace]] |
-> | Türetilmiş statlar | HP: SB+TBx2+WB, END = HP, MOV: AB*2 | HEALTH: THGBx2, END: STRB+WPB, MOV: AGLB | [[NERRATIVE SYSTEM#Attributes]] |
-> | Tokenler | Uğur Jetonları, İlham Simgeleri, Talih Simgeleri, Devam Simgeleri | Fluke, İnspiration, Turnout, Değişim tokenleri (Turnout ≈ Devam Simgeleri? Fluke ≈ Uğur?) | [[NERRATIVE SYSTEM#Tokens]] |
-> | Sayaçlar | Kargaşa Sayacı + Karma Sistemi | Hayaller/korkular sayacı, Tükenmişlik sayacı, Karma | [[NERRATIVE SYSTEM]] (SAYAÇLAR) |
-> | Keyword tipleri | Background / Feature / Proficiency / Others | 3 temel tip (profession+advantage / direkt +SL / sadece özellik) + doğum yeri keywordleri (Menora, Tayhun, Caliberrian, Endless Desert) | [[NERRATIVE SYSTEM#Keywords]] |
+> | Zar / SL | d100, stat'ı geçtiğin her 10 = 1 SL, 2d10+20 attribute | d10'a geçiş, 1 ve 10 crit; attribute'lar origin noktasına göre (-5 → 0), -10…+10 aralığı | [[Stats]] |
+> | Skill listesi | 19 skill: Weapon Skill, Balistic Skill, Healing, Investigation… | Yeni liste: Accuracy, Combat, Awareness, Instincts, Survival, Scholar, Cognition, Focus… + Pure Skills (Animal Care, Mount, Craft) | [[Stats#New Skills]] |
+> | Skill limiti | aynı seviyede 4 skill slotu | aynı seviyede max 2 skill, biri artarsa diğeri düşer | [[Stats#Skills]] |
+> | İlerleme | XP + 7 Tier (3000xp → 50.000xp) | 44 milestone, Tier 1–5 şeması, kampanya uzunluğuna göre tempo | [[Progression]] |
+> | Pace | herkes 10 (ırka göre), aksiyon başına harcanıyor | 3 + her 4 AGB için 1, 3 time shard, Rogue Pace, 3 ayrı ruling | [[Stats#Pace]] |
+> | Türetilmiş statlar | HP: SB+TBx2+WB, END = HP, MOV: AB*2 | HEALTH: THGBx2, END: STRB+WPB, MOV: AGLB | [[Stats#Attributes]] |
+> | Tokenler | Uğur Jetonları, İlham Simgeleri, Talih Simgeleri, Devam Simgeleri | Fluke, İnspiration, Turnout, Değişim tokenleri (Turnout ≈ Devam Simgeleri? Fluke ≈ Uğur?) | [[Tokens]] |
+> | Sayaçlar | Kargaşa Sayacı + Karma Sistemi | Hayaller/korkular sayacı, Tükenmişlik sayacı, Karma | [[Tokens]] (SAYAÇLAR) |
+> | Keyword tipleri | Background / Feature / Proficiency / Others | 3 temel tip (profession+advantage / direkt +SL / sadece özellik) + doğum yeri keywordleri (Menora, Tayhun, Caliberrian, Endless Desert) | [[Feats#Keywords]] |
 > | Irk adları | Human, Kharan, Oren, G.Erikan / Glass / Metal Erikan, Original, Arik'Xea, Azothan, Dweller, Vikos, Crystalines, First Kin, Bai | İnsan, Kharan, Bai, Orenn, Cam Erikan, Arik'Xea, İlkkan, Vikos'Anel, Kızıl Benizliler, Azothan | [[Style Notes#Erikanlar]]. Senin cevabın: Oren=Orenn, Bai=Dweller, First Kin=Original=İlkkan; Crystalines ≠ Cam Erikan |
 > | Kharan | Take Flight, Dive vb. | uçuşta asılı kalırken her aksiyona +1 Pace + sosyal etkileşim sayacı fikri | [[Style Notes#- Kharan:]] |
 >
