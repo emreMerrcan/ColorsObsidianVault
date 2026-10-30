@@ -58,7 +58,7 @@ Example of a maxed out characters skillpoints spread uniformly:
 
 
 ### New Skills:
-HYSICAL
+PHYSICAL
 - Acrobatics : Elaborate delicate movements mastered with technique
 - Athletics : Raw power, wrestle, relying on the magnitude of strength
 - Swiftness : Quick movement with pace, relying on speed and rapid movement
@@ -69,23 +69,24 @@ ACTION BASED:
 - Combat : Close dynamic interactions, impactful hits, obvious and intimate actions
 - Stealth : Out of sight movement and hidden actions, reading others for unforseen actions
 - Slight of Hand : Elaborate technical moves, rapid hand movements, finesse, pickpocketing, disarming etc.
+- Mount : Used in riding animals or herding them really, but in truth, can be used in motion based on another creature
 
-SOCIAL (less is better, leave room to interpretation and roleplay)
+SOCIAL
 - Expression : Agreeableness and truth (embrace and convince)
 - Deception : Divert and lie (divert and missuse)
 
-EVALUATIVE/MENTAL CAPACITY
+MENTAL
 - Awareness : Investigation, overall perception, reading of the room and social clues
 - Instincts : Intuition, gut feeling, a very general feeling of non specifity that isnt rational but always accurate (a dangerous situation should always be a huge redflag, tho if the palyer used cognition or awareness maybe they would realize its not really dangerous cause of reasons, no such evaluation on instinct, it just screams positive or negative)
+- Focus : Channelling the soul, mind and/or body
+
+EVALUATIVE
 - Survival : Things tied to direct environmental survivorship knowledge against the world or its inhabitants
 - Scholar : Wisdom, knowledge, rooting an idea in facts and finding explonations based on characters expertiese
 - Cognition : Intelligent elaboration, design, plan and connecting the dots
-- Focus : Channelling the soul, mind and/or body
-
-- PURE SKILLS
-Animal Care
-Mount
-Craft
+- Craft: Manipulate objects to make new things.
+- Animal Care: Asses, approach and handle animals.
+- Healing: Asses, identify and treat illness/wounds.
 
 # Pace
 
@@ -148,4 +149,4 @@ Zaman dilimi neticelenene dek hiçbir aksiyon bölünemez.
 ### Ruling Without Time Shards:
 Temel sistem uygulanır. Turlar eşlenik zaman alanında değil, initiative sırasına uyarak tek seferde olur biter. Karşı taraf half action kullanarak istediği saldırıya reaksiyon gösterebilir. Eğer birden çok rakiple oyuncu savaş halindeyse bu sistem önerilir.
 
-Süikastçi önceliklidir ve 12 Pace'iyle 10 bıçak darbesi atıp 2 sini tepkilere saklar. Şövalye 2 Pace'i tepkiye harcayarak bıçakların hasarını zırhına soğurtur, ardından kalan 10 Pace'i ile 5 kere kılıç savurur. Süikastçide bunların 2 sinden sıyrılmaya çalışır.
+Süikastçi önceliklidir ve 12 Pace'inin 10 unu bıçak darbesi atıp 2 sini tepkilere saklar. Şövalye 2 Pace'i tepkiye harcayarak bıçakların hasarını zırhına soğurtur, ardından kalan 10 Pace'i ile 5 kere kılıç savurur. Süikastçide bunların 2 sinden sıyrılmaya çalışır.

@@ -27,12 +27,12 @@ COMPLETE PROGRESS : 44 milestones in Y sessions
 - Lifelong Epic: Give 1 milestone every 3 sessions
 PER TIER : 8 milestones in 24 sessions
 HALFWAY : 26 milestones in 78 sessions
-COMPLETE PROGRESS : 44 milestones in Y sessions
+COMPLETE PROGRESS : 44 milestones in 132 sessions
 
 - Long Campaign: Can give 1 milestone for each session
 PER TIER : 8 milestones in 8 sessions
 HALFWAY : 26 milestones in 26 sessions
-COMPLETE PROGRESS : 44 milestones in 132 sessions
+COMPLETE PROGRESS : 44 milestones in 44 sessions
 
 - Medium Adventure: Can give 1 and on occasions give 2 milestone each session
 PER TIER : 8 milestones in 6 sessions
@@ -53,7 +53,7 @@ COMPLETE PROGRESS : 44 milestones in 11 sessions
 ### Schematic
 Tier 5 : 8 milestones
 (TOTAL: 1 Stat, 3 keyword, 4 skill)
-+Attribute origin increase to 0
++Attribute origin increase to 0 + get 1 Points Attribute increase
 +Skill
 +Keyword
 +Skill
@@ -64,7 +64,7 @@ Tier 5 : 8 milestones
 
 Tier 4 : 9 milestones
 (TOTAL: 1 Stat, 4 keyword, 4 skill)
-+Attribute origin increase to -1
++Attribute origin increase to -1 + get 1 Points Attribute increase
 +Keyword
 +Skill
 +Keyword
@@ -76,7 +76,7 @@ Tier 4 : 9 milestones
 
 Tier 3 : 9 milestones
 (TOTAL: 1 Stat, 4 keyword, 4 skill)
-+Attribute origin increase to -2
++Attribute origin increase to -2 + get 1 Points Attribute increase
 +Keyword
 +Skill
 +Keyword
@@ -88,7 +88,7 @@ Tier 3 : 9 milestones
 
 Tier 2 : 9 milestones
 (TOTAL: 1 Stat, 4 keyword, 4 skill)
-+Attribute origin increase to -3
++Attribute origin increase to -3 + get 1 Points Attribute increase
 +Keyword
 +Skill
 +Keyword
@@ -100,7 +100,7 @@ Tier 2 : 9 milestones
 
 Tier 1 :  8 milestones
 (TOTAL: 1 Stat, 3 keyword, 4 skill)
-+Attribute origin increase to -4
++Attribute origin increase to -4 + get 1 Points Attribute increase
 +Skill
 +Keyword
 +Skill
@@ -111,6 +111,6 @@ Tier 1 :  8 milestones
 
 Start with: 
 - Attribute origin is -5
-- STATS: At the origin of -5, have one +2, two +1, two -1, one -2 stat
+- STATS: At the origin of -5, have one +2, two +1 to your stats, and apply mirrored negative values of theirs to any other stats as well
 - SKILLS: Have 1x3, 2x2's and 2x1s
 - Keyword: 6 keywords, 2-2-2
