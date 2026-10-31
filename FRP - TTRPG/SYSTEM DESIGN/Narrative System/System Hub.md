@@ -22,7 +22,7 @@ tags:
 > | [[Progression]] | [[Progression#Theory\|Theory]] (tam karakter hesabı, başlangıç), [[Progression#Milestone Schematic\|Milestone Schematic]]: 44 milestone, kampanya temposu, Tier 1–5 |
 > | [[Feats]] | [[Feats#Keywords\|Keywords]] (3 tip), [[Feats#Birthplace\|Birthplace]] keywordleri (Menora, Tayhun, Caliberrian, Endless Desert), [[Feats#Help\|Help]] (aid tipleri) |
 > | [[Tokens]] | Fluke, İnspiration, Turnout, Değişim tokenleri; sayaçlar (hayaller / korkular, Tükenmişlik, Karma) |
-> | [[Actions]] | (henüz boş) |
+> | [[Actions]] | Savaş akışı (tur + initiative), test / SL / kritik, opposing test, hareket, hasar ve vuruş bölgeleri, durumlar, yaralar, half action'lar, stance'ler, silah ve zırh özellikleri, silah / kalkan / zırh listeleri, menzil, boyut sınıfları (hepsi eskiden aktarıldı) |
 >
 > **Eski `NERRATIVE SYSTEM` bölümleri nereye gitti**
 >
@@ -38,6 +38,19 @@ tags:
 > - [[Uyarlama Soru Listesi]]: eski kurallar yeni sistemle çeliştiği yerde nasıl uyarlanacak (U00–U27)
 > - [[Yeni Sistem İnşa Panosu]]: çelişmediği için kabul edilenler (✅) ve yeni sistemde boş duran yerler (🚩)
 > - [[Rulebook Aktarım Takibi]]: eski rulebook PDF / `.pxz` sayfalarının Obsidian'a aktarımı
+>
+> **Aktarım (2026-10-31):** eski sistem, soru listesinin cevaplarına göre yeni sistem notlarının içine `claude` callout'ları olarak yazıldı. Senin metnine dokunulmadı; değişmesi gereken satırların yanında 🚩 var.
+>
+> | Eski | Nereye girdi |
+> |---|---|
+> | Genel çeviri kuralları (U01–U05), türetilmiş stat kararları, Passive Status Checks, Essence kuralları, skill kuralları ve stat çiftleri, Pace | [[Stats]] |
+> | Açılış sırası, XP / Wealth'in kalkması, "2-2-2", tier açıklamaları, Optional Fantasy Tiers, 60 milestone temposu | [[Progression]] |
+> | Keyword alma kuralları, birthplace keywordlerinin tanımları, eski 4 kategorinin bütün keywordleri (çevrilmiş), Aid | [[Feats]] |
+> | Uğur → İnspiration, İlham → Fluke, Devam → Turnout, Talih Simgeleri, Goal Harvesting, Character Absolutes, Exhaustion → Tükenmişlik, Karma + Events Table, Kargaşa Sayacı | [[Tokens]] |
+> | [[Combat Rulings]] + [[Combat Specials]] | [[Actions]] |
+> | Irk modifier'ları ve türetilmiş stat tablosu, her ırkın paketi ve istenen / kaçınılan adayları, Class tanımı ve eski halklar, Luminary Core, beş beceri sistemi | [[Style Notes]] |
+>
+> İşaretler: **🚩** karar bekliyor ya da çelişki · **🛠️** tasarlanacak (eskide boş ya da yarım). Vault'ta ikisini aratınca hepsi çıkar.
 
 > [!claude] Claude · 2026-10-29
 > ## Legacy System (arşiv)
