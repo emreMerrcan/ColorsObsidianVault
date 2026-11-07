@@ -1,3 +1,8 @@
+# Sesli Hikayeler
+
+- [ ] Tanrıyı okyanusun dibine gömüp süper bilgisayar yaptığımız rüya, ayrıca video fikri
+- [ ] Babilin inşası: Analog horror   
+# Diğerleri
 - Din doğru yaşanmıyor videosu
 - Rüyalarımdaki işaretler ve irade videosu
 - Grind Adam hikayesini geliştirme videosu

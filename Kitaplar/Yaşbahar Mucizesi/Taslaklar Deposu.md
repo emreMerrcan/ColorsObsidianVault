@@ -4,7 +4,7 @@
 
 “”
 
-“Zalimikten zevk alır oldun. Seni daha koruyamayavağjm. Bu kız pek seviliyor. Onunla uzlaşacaksın.”
+“Zalimikten zevk alır oldun. Seni daha koruyamayavağım. Bu kız pek seviliyor. Onunla uzlaşacaksın.”
 
 “Özür dilesen yeter, ama içten dilemen lazım.”
 

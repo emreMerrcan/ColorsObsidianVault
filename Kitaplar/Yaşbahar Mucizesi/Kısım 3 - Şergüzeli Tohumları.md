@@ -1,3 +1,9 @@
+PART NOTLARI: Asena bu partta korkunç bir hataya ve yanılgıya düşmeli, ve bu bir nebze önceki partın sonlarında ortaya çıkışını gördüğümüz bir şey olmalı (atlı yaşlı adam, sahildeki amcalar). Bu da istediği şeye iradesini zorlayarak sahip olabileceği inancı. Başkasının sahip olduğu şeyi almaya, kuralı dilediği gibi ihlal etmeye ya da canını sıkan bir şeyi ortadan kaldırmayı basitçe "İsteme ve yapma" meselesi olarak görüyor. Dünya ile bağının en zayıf olduğu ve yalnızca kendi isteklerinde yaşadığı bir dönem. Bundan onu arada çekip çıkaran sekanslar var, dikiş yaptığı, bok kürümeye görevlendiği zamanlar falan. Ancak onun dışında bu sürekli irade bileme, feci şekilde elinde patlayacak. Let her be active, let her be almost villainous, not so gray, an almost black. Her daim daha assertive olacak, kaçınılmaz.
+
+She has a core belief, and a lie that she holds true.
+The lie: I can just get whatever I want, I can just get my way, outcome through will, not consideration nor conversation nor care
+
+Asena albanadan sonra götürülürken reis gülümsemektedir
 # Eve Dönüş
 “”” _Başlangıçta kış sonsuzdu. Henüz ne bir canlı doğmuş, ne bir kıpırtı olmuş, ne de bir rüya görülmüştü. Durağan bir beyazlıktan ibaret dünya zamansız bir bekleyiş içerisindeydi._
 
@@ -3865,7 +3871,7 @@ Asena onu kaşları çatık dinliyordu. Oğlan yüzünü ellerinin arasına göm
 
 Asena hiçbir şey demedi. Çünkü Rayan'da biliyordu.
 
-Nihayet yüzü yumuşadı.Asena bir an tereddüt ettiyse de elini onun omzuna koydu. (o dokunuşundan korkmuyor (kulaksıza referansla)) "Tüm bunları... telafi etme şansın var hala." Gözlerini kaçırdı. "Nazik bir kalbin olduğuna inanıyorum."
+Nihayet yüzü yumuşadı. Asena bir an tereddüt ettiyse de elini onun omzuna koydu. (o dokunuşundan korkmuyor (kulaksıza referansla)) "Tüm bunları... telafi etme şansın var hala." Gözlerini kaçırdı. "Nazik bir kalbin olduğuna inanıyorum."
 
 Rayan yerde taktığı bir taşı çizmesinin burnuyla tekmeliyordu habire. "Beni tanıyor musun da inanıyorsun? Çok daha kötülerini yaptım Asena. Senin gibi değilim. Hiç değilim."
 
@@ -3874,6 +3880,39 @@ Kız başını iki yana salladı. "Haklısın, tanımıyorum. Ancak şunu unutma
 Rayan bu sözlerin üstüne büküldü. Başını hiç kaldırmadan hızla uzaklaştı.
 
 Asena gidişini izledi. Ardından eline baktı. Ilman'ı düşündü, ve bir kere daha utandı. _Başka erkeklere böyle patavatsızca dokunmamalıyım._
+
+
+
+((i like this, a confrontation, and then an immediate truce, added tension))
+Asena Sedine'i yemek sofrasında yakaladı ve aş odasının ortasında dimdirek yanına oturdu. Bu sefer kadın son derece dinç duruyordu. Gözlerini kıstı. "Ne diye bana öyle bakıyorsun?"
+
+"O kulaksızlara ne yaptığını biliyorum."
+
+Sedine gözünü odada gezdirdi. Sakince ekmeğini reçele bandı ve üstüne kaymağı sürdü. "Bunun üzerine konuşulmayacak."
+
+Asena'da ekmeğini ısırdı. "Ben biliyorum ne yaptığını. Ben biliyorum ne olduğunu."
+
+"Ve? Dediğimi yapacaksın. Yoksa ben canını nasıl yakacağımı bilirim."
+
+"O kelimeler için küçük görünüyorsun."
+
+"Fark eder mi?" elini masanın altından Asena'nın dizine koyar. "Ruhunu şuracıkta gaspedebilirim ve kılını bile kıpırdatamazsın." Gözlerinde bir katilin soğuk gülümsemesi vardı.
+
+"Cüret edemezsin." der başını sallayarak. "Herkesin gözleri önünde hele hele."
+
+"Ah, sen ölüp gittikten sonra başıma gelecekler senin için niye bir fark yaratsın ki?"
+
+"Yap öyleyse. Herkes görsün gerçekte ne olduğunu!"
+
+Sedine kahkaha attı. Bakışları çektiğinde ikili birbirlerinin dibine girip fısıldıyordu ki ayrıldılar. Oda tekrar konuşmalarla yoğunlaşınca Sedine gülümsemesini büyüttü. "Çok büyük hayallerin var değil mi? Büyük bir amacın. Kararlısın, kesinsin." Sonra elini kızın bacağından çekti. "Benim kaybedecek hiçbir şeyim yok, inan. Sadece günümü gün ediyorum. Eğer keyfimi kaçırırsan, senin ve tüm sevdiklerinin her şeyini alırım."
+
+Asena'nın kalbinde korku yayıldı. Gözüne bakıp korkusuzluğunu haykırdığı düşmanlarının aksine, burada kaba kuvvetle kazanamayacağı bir kavga yaşanacaktı. Ahaliyi ikna etmesi, askerleri yanına alması, ve hala doğasını bilmediği bu kadını haklaması... hiç böyle bir yaratıkla savaşmamıştı.
+
+Asena arkasına yaslandı. Yemeğini yerken düşünmeye devam etti ve kalbindeki korkuyu aşmaya çalıştı. Ancak bunun içgüdülerinin bir uyarısı olduğunu fark edince ne yapması gerektiği tümüyle kafasına oturdu. Yemek boyu Sedine'de, o da birbirlerine bakmadılar. Sonra Asena ağzını sildi, ayağa kalktı, "Afiyet olsun." dedi ve yoluna gitti.
+
+Rayan haklıydı.
+
+İnsan yüzü giyen canavarlarla baş etmesi imkansızdı.
 
 ***
 
