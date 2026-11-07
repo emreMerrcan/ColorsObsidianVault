@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiHourglass",
       "LiAsterisk",
       "LiTrash",
       "LiActivity",
-      "LiAstroid",
-      "LiAlignLeft"
+      "LiAstroid"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -60,6 +60,10 @@
   },
   "NOTLAR": {
     "iconName": "LiAsterisk",
+    "iconColor": "#ffffff"
+  },
+  "Whairion - Zihin Zinciri": {
+    "iconName": "LiHourglass",
     "iconColor": "#ffffff"
   }
 }

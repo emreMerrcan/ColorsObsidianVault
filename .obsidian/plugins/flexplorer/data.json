@@ -1,0 +1,2711 @@
+{
+  "items": {
+    "/": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Whairion - Zihin Zinciri",
+        "Kitaplar",
+        "attachments",
+        "Fabulous",
+        "FRP - TTRPG",
+        "OYUNLAR",
+        "VİDEOLAR",
+        "NOTLAR",
+        "PXZ'S",
+        "RulebookPDFS",
+        "Şablonlar",
+        "MEDENİYETLER (derlenecek ve geçirilecek).pdf",
+        "Untitled.base",
+        "Untitled 1.base",
+        "Untitled 2.base",
+        "Untitled 3.base",
+        "DONE & GONE"
+      ]
+    },
+    "attachments": {
+      "isPinned": false,
+      "isHidden": true,
+      "sortOrder": "custom",
+      "customOrder": [
+        "0a318a47d0ad31af6599cbe560c4603f.jpg",
+        "0b37ddff9ed6d111ee6e64d194c2a5d7.jpg",
+        "0b473ffacc8c945e43d486080811828d.jpg",
+        "02d9e5478173b0dc84284a93bf183fe9.jpg",
+        "2ee5e8c68f0a7547e3f9a3e498c1fafd.jpg",
+        "6f92b97881bfd9b52458b06151d2c967.jpg",
+        "07ee14514c1695d595e517b077574f83.jpg",
+        "9adb0674a2077ac5ef90d5be2fc04167.jpg",
+        "85e8b629eb730904e1e4aab45cd610d0.jpg",
+        "5057af4d71d7713da276bb780bacd0f0.jpg",
+        "13725db73288c559a628aa9dacf6b6b4.jpg",
+        "52139a09ee6dd8fef70fc03a9c3ea5de.jpg",
+        "4399144e27960d3a72f814dd13eb53e1.jpg",
+        "a96e8d6288722dd74c28819b40c28731.jpg",
+        "a345f44563a581f1002cfe6d18779306.jpg",
+        "a345f44563a581f1002cfe6d18779306 1.jpg",
+        "a9373afb62fe019b8309782cd2e91794.jpg",
+        "ajin bait.jpg",
+        "Akıl Mühürleyenler, beyni kara büyüyle gölgeleyip aynı kukla ruhu bin bedene kopaylıyorlar, acı ve kaygı kalmıyor.jpg",
+        "Akılsız birliğinin başında, Upariez tarafından gönderilir, Naxal'ı ve beraberinde bizim ekibi avlıyor, gölgesiyle düşmanlarını etkiliyor.jpg",
+        "Aklı mühürlü.jpg",
+        "Ametist Hayalet, İğnenin arayıcısı, Upariez'in tam kontrol planını bozmak istiyor, iğneyi mavileri kendine uygun kodlamak için saklıyor.jpg",
+        "Ametist hayaletin gönderdiği, Naxal'ın peşinde ödül avcısı gibi gezinen tip, dostane ve yalancı ancak bizimkilerden kurtulmayı amaçlıyor.jpg",
+        "b1c1c2e5e56ca1757a96ccf797bbf9d4.jpg",
+        "b3ed2f28cbd9941b2e1a676ed4d925d0.jpg",
+        "b3ed2f28cbd9941b2e1a676ed4d925d0 1.jpg",
+        "Bankz.jpg",
+        "banx.png",
+        "banx necklage of empathy.jpg",
+        "Banx, marhazın elinden kaçmış, ölüm büyüsüne sahip, kaçak, naxalın çırağı, death touch, life dream.png",
+        "Banx, marhazın elinden kaçmış, ölüm büyüsüne sahip, kaçak, naxalın çırağı, death touch, life dream1.png",
+        "c91245a72c471af7b6e2035e115f90ea.jpg",
+        "ca1f1d568cf073eb1fa66869431f6d0a.jpg",
+        "ccc2312ffe5713af4230149eda15ab1d.jpg",
+        "d8af7d9e8a3c37450bc34a37a1994845.jpg",
+        "d063e3d9aa8c298f5283ea2a3696435f.jpg",
+        "Darik, eski dövüşçü.jpg",
+        "Darik, eski dövüşçü 1.jpg",
+        "dd0ce9e73eec6aa982651000e8500d9b.jpg",
+        "dd0ce9e73eec6aa982651000e8500d9b 1.jpg",
+        "e9a6b4031ccc9244d8eecd26a8cdc62a.jpg",
+        "e9a6b4031ccc9244d8eecd26a8cdc62a 1.jpg",
+        "e708fba97e49a38fb4e73a13bdbee2d5.jpg",
+        "e708fba97e49a38fb4e73a13bdbee2d5 1.jpg",
+        "ELIKPE~1.web",
+        "Invincible-1.webp",
+        "Kambat, biraz gerzek, Naxal'la barlara takılırlar, S tier get shit done guy, gizli grupla çalışma dedikodusunu biliyor, patron olaydan haberi yok.jpg",
+        "Kian_Webb.jpg",
+        "Lobixea, kharan tutsakçısı, naxalın saldırısnı ön görüp, zihin ağından bizimkilere erişiyor, iğnenin detayını bilmiyo ama BÜYÜK olduğunu biliyo.jpg",
+        "Lobixea, kılık mücevheri olamdan.jpg",
+        "Maden patronu Hovoz, iğneyi bulan kişi, uparieze çalışıyo, akılsız hizmetçiler kullanıyo ve onları dikenlere para döküyo.jpg",
+        "Naxal babannesi Obox Teyze, esprili, ailenin son üysei, torunu aramaya yolluyor, mücevher artifactleri var.jpg",
+        "Naxal Şimşek Hançer, tier 5, Upariez'in bir adamını öldürmüş, Lagh'Anz için gelior, ardından da madene son verecek ve adamımızı bitirecek.jpg",
+        "Naxal Şimşek Hançer, tier 5, Upariez'in bir adamını öldürmüş, Lagh'Anz için gelior, ardından da madene son verecek ve adamımızı bitirecek 1.jpg",
+        "Naxal, kemiğe bir Curcunanın hepitemini yapmış, sandevistan, düş iğnesini kaçırıyo patrondan, gizler savaşına katılmayınca köleleştiriliyor.jpg",
+        "Pasted image 20260308102037.png",
+        "Pasted image 20260313175931.png",
+        "Pasted image 20260315175555.png",
+        "Pasted image 20260315175754.png",
+        "Pasted image 20260315175847.png",
+        "Pasted image 20260315175936.png",
+        "Pasted image 20260315175950.png",
+        "Pasted image 20260315180008.png",
+        "Pasted image 20260315180022.png",
+        "Pasted image 20260316125622.png",
+        "Pasted image 20260402021201.png",
+        "Pasted image 20260402021237.png",
+        "Pasted image 20260411174350.png",
+        "Pasted image 20260815144453.png",
+        "Pasted image 20260815144620.png",
+        "Pasted image 20260815144631.png",
+        "Pasted image 20260815144641.png",
+        "Pasted image 20260815144651.png",
+        "Pasted image 20260815144700.png",
+        "Pasted image 20260815144713.png",
+        "Pasted image 20260929221836.png",
+        "Pasted image 20261031181845.png",
+        "Pasted image 20261031181905.png",
+        "Razae Upariez, madencinin sahibi, düşünce iğnesini ve halkı efendileri altında köle yapmak istiyor, tüm kölelik tiplerinin getiricisi o.jpg",
+        "Rulebook - Attributes ve Skills.jpg",
+        "Rulebook - Combat Rulings.jpg",
+        "Rulebook - Combat Specials.jpg",
+        "Rulebook - Dream Weaving.jpg",
+        "Rulebook - Instrument Aide.jpg",
+        "Rulebook - Irklar I.jpg",
+        "Rulebook - Irklar II.jpg",
+        "Rulebook - Irklar III.jpg",
+        "Rulebook - Irklar IV.jpg",
+        "Rulebook - Kara Yürek İlmi.jpg",
+        "Rulebook - Keywords.jpg",
+        "Rulebook - Opening Your Character.jpg",
+        "Rulebook - Repulsion.jpg",
+        "Rulebook - Roll Tables.jpg",
+        "Rulebook - Soul Surge.jpg",
+        "Rulebook - Tokens and Tables.jpg",
+        "Sebilos, Naxal olayını araştıran bir görevli, Upraiez'e çalışıyor ama barışçıl yaklaşacak.jpg",
+        "Spinosaurus mashup for everyone!! 😁1-spino x bear 2-spino x bear v1 3-spino x carnotaurus 4-spi.jpg",
+        "Spinosaurus mashup for everyone!! 😁1-spino x bear 2-spino x bear v1 3-spino x carnotaurus 4-spi 1.jpg",
+        "Tavernadan yana ama ücretle çalışan bir bilek gücü adamı, Pedirs.jpg",
+        "Tavernadan yana ama ücretle çalışan bir bilek gücü adamı, Pedirs 1.jpg",
+        "Tavernadan yana ama ücretle çalışan bir bilek gücü adamı, Pedirs 2.jpg",
+        "tim.jpg",
+        "Zambia Kafayiyen, eleman uğradığı aşağılamanın ardından itibarını toparlayacak, balon gibi şişiyo korkunç bağırıyo.jpg",
+        "Zebellak, üç cevher etinde, mavi kırmızı yeşil, STR, AGL THG +2 alıyo 2 tur boyu, yanındaki adamlarda 1 turluğuna +2 veren cevherler taşıyo.jpg"
+      ]
+    },
+    "attachments/02d9e5478173b0dc84284a93bf183fe9.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773415595763,
+      "mtime": 1773415595764
+    },
+    "attachments/07ee14514c1695d595e517b077574f83.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1775082401207,
+      "mtime": 1775082401207
+    },
+    "attachments/0a318a47d0ad31af6599cbe560c4603f.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773165682928,
+      "mtime": 1773165682929
+    },
+    "attachments/0b37ddff9ed6d111ee6e64d194c2a5d7.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1775215254995,
+      "mtime": 1775215254996
+    },
+    "attachments/0b473ffacc8c945e43d486080811828d.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773166071524,
+      "mtime": 1773166071525
+    },
+    "attachments/13725db73288c559a628aa9dacf6b6b4.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1775433909171,
+      "mtime": 1775433909174
+    },
+    "attachments/2ee5e8c68f0a7547e3f9a3e498c1fafd.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1774545282306,
+      "mtime": 1774545282307
+    },
+    "attachments/4399144e27960d3a72f814dd13eb53e1.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1774267211621,
+      "mtime": 1774267211622
+    },
+    "attachments/5057af4d71d7713da276bb780bacd0f0.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773585318163,
+      "mtime": 1773585318166
+    },
+    "attachments/52139a09ee6dd8fef70fc03a9c3ea5de.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1774267163981,
+      "mtime": 1774267163981
+    },
+    "attachments/6f92b97881bfd9b52458b06151d2c967.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1775082417615,
+      "mtime": 1775082417617
+    },
+    "attachments/85e8b629eb730904e1e4aab45cd610d0.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773585339418,
+      "mtime": 1773585339418
+    },
+    "attachments/9adb0674a2077ac5ef90d5be2fc04167.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773654485949,
+      "mtime": 1773654485949
+    },
+    "attachments/a345f44563a581f1002cfe6d18779306 1.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773586945357,
+      "mtime": 1773586945357
+    },
+    "attachments/a345f44563a581f1002cfe6d18779306.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773415288107,
+      "mtime": 1773415288107
+    },
+    "attachments/a9373afb62fe019b8309782cd2e91794.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773165874280,
+      "mtime": 1773165874281
+    },
+    "attachments/a96e8d6288722dd74c28819b40c28731.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1774545331762,
+      "mtime": 1774545331763
+    },
+    "attachments/ajin bait.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773654498523,
+      "mtime": 1773654498524
+    },
+    "attachments/Aklı mühürlü.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1772957073979,
+      "mtime": 1772957073979
+    },
+    "attachments/Akıl Mühürleyenler, beyni kara büyüyle gölgeleyip aynı kukla ruhu bin bedene kopaylıyorlar, acı ve kaygı kalmıyor.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1772956988428,
+      "mtime": 1772956988429
+    },
+    "attachments/Akılsız birliğinin başında, Upariez tarafından gönderilir, Naxal'ı ve beraberinde bizim ekibi avlıyor, gölgesiyle düşmanlarını etkiliyor.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1772955916822,
+      "mtime": 1772955916824
+    },
+    "attachments/Ametist Hayalet, İğnenin arayıcısı, Upariez'in tam kontrol planını bozmak istiyor, iğneyi mavileri kendine uygun kodlamak için saklıyor.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1772956769422,
+      "mtime": 1772956769425
+    },
+    "attachments/Ametist hayaletin gönderdiği, Naxal'ın peşinde ödül avcısı gibi gezinen tip, dostane ve yalancı ancak bizimkilerden kurtulmayı amaçlıyor.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1772956781422,
+      "mtime": 1772956781424
+    },
+    "attachments/b1c1c2e5e56ca1757a96ccf797bbf9d4.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1774266910738,
+      "mtime": 1774266910741
+    },
+    "attachments/b3ed2f28cbd9941b2e1a676ed4d925d0 1.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1775433867368,
+      "mtime": 1775433867379
+    },
+    "attachments/b3ed2f28cbd9941b2e1a676ed4d925d0.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1775433833621,
+      "mtime": 1775433833623
+    },
+    "attachments/Bankz.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773165992707,
+      "mtime": 1773165992709
+    },
+    "attachments/banx necklage of empathy.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773165992717,
+      "mtime": 1773165992718
+    },
+    "attachments/Banx, marhazın elinden kaçmış, ölüm büyüsüne sahip, kaçak, naxalın çırağı, death touch, life dream.png": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773165953845,
+      "mtime": 1773165953847
+    },
+    "attachments/Banx, marhazın elinden kaçmış, ölüm büyüsüne sahip, kaçak, naxalın çırağı, death touch, life dream1.png": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773165953877,
+      "mtime": 1773165953880
+    },
+    "attachments/banx.png": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773165992732,
+      "mtime": 1773165992749
+    },
+    "attachments/c91245a72c471af7b6e2035e115f90ea.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1783104843677,
+      "mtime": 1783104843679
+    },
+    "attachments/ca1f1d568cf073eb1fa66869431f6d0a.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1774545254052,
+      "mtime": 1774545254053
+    },
+    "attachments/ccc2312ffe5713af4230149eda15ab1d.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1783104859392,
+      "mtime": 1783104859393
+    },
+    "attachments/d063e3d9aa8c298f5283ea2a3696435f.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1775556227070,
+      "mtime": 1775556227071
+    },
+    "attachments/d8af7d9e8a3c37450bc34a37a1994845.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1774266921529,
+      "mtime": 1774266921531
+    },
+    "attachments/Darik, eski dövüşçü 1.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773654397845,
+      "mtime": 1773654397846
+    },
+    "attachments/Darik, eski dövüşçü.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773654389480,
+      "mtime": 1773654389480
+    },
+    "attachments/dd0ce9e73eec6aa982651000e8500d9b 1.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773587099510,
+      "mtime": 1773587099529
+    },
+    "attachments/dd0ce9e73eec6aa982651000e8500d9b.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1772957076316,
+      "mtime": 1772957076317
+    },
+    "attachments/e708fba97e49a38fb4e73a13bdbee2d5 1.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773165920799,
+      "mtime": 1773165920801
+    },
+    "attachments/e708fba97e49a38fb4e73a13bdbee2d5.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773165912222,
+      "mtime": 1773165912223
+    },
+    "attachments/e9a6b4031ccc9244d8eecd26a8cdc62a 1.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1775433949301,
+      "mtime": 1775433949303
+    },
+    "attachments/e9a6b4031ccc9244d8eecd26a8cdc62a.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1775433940551,
+      "mtime": 1775433940552
+    },
+    "attachments/ELIKPE~1.web": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1772954318574,
+      "mtime": 1772954318584
+    },
+    "attachments/Invincible-1.webp": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1774804281943,
+      "mtime": 1774804281943
+    },
+    "attachments/Kambat, biraz gerzek, Naxal'la barlara takılırlar, S tier get shit done guy, gizli grupla çalışma dedikodusunu biliyor, patron olaydan haberi yok.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1772955685674,
+      "mtime": 1772955685675
+    },
+    "attachments/Kian_Webb.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773165890931,
+      "mtime": 1773165890947
+    },
+    "attachments/Lobixea, kharan tutsakçısı, naxalın saldırısnı ön görüp, zihin ağından bizimkilere erişiyor, iğnenin detayını bilmiyo ama BÜYÜK olduğunu biliyo.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1772954296290,
+      "mtime": 1772954296291
+    },
+    "attachments/Lobixea, kılık mücevheri olamdan.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1772954306473,
+      "mtime": 1772954306475
+    },
+    "attachments/Maden patronu Hovoz, iğneyi bulan kişi, uparieze çalışıyo, akılsız hizmetçiler kullanıyo ve onları dikenlere para döküyo.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1772955681554,
+      "mtime": 1772955681555
+    },
+    "attachments/Naxal babannesi Obox Teyze, esprili, ailenin son üysei, torunu aramaya yolluyor, mücevher artifactleri var.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773165784943,
+      "mtime": 1773165784944
+    },
+    "attachments/Naxal Şimşek Hançer, tier 5, Upariez'in bir adamını öldürmüş, Lagh'Anz için gelior, ardından da madene son verecek ve adamımızı bitirecek 1.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1772956864543,
+      "mtime": 1772956864545
+    },
+    "attachments/Naxal Şimşek Hançer, tier 5, Upariez'in bir adamını öldürmüş, Lagh'Anz için gelior, ardından da madene son verecek ve adamımızı bitirecek.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1772956845999,
+      "mtime": 1772956846000
+    },
+    "attachments/Naxal, kemiğe bir Curcunanın hepitemini yapmış, sandevistan, düş iğnesini kaçırıyo patrondan, gizler savaşına katılmayınca köleleştiriliyor.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1772956834688,
+      "mtime": 1772956834689
+    },
+    "attachments/Pasted image 20260308102037.png": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1772954437452,
+      "mtime": 1772954437453
+    },
+    "attachments/Pasted image 20260313175931.png": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773413971921,
+      "mtime": 1773413971922
+    },
+    "attachments/Pasted image 20260315175555.png": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773586555629,
+      "mtime": 1773586555632
+    },
+    "attachments/Pasted image 20260315175754.png": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773586674628,
+      "mtime": 1773586674628
+    },
+    "attachments/Pasted image 20260315175847.png": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773586727035,
+      "mtime": 1773586727035
+    },
+    "attachments/Pasted image 20260315175936.png": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773586776643,
+      "mtime": 1773586776644
+    },
+    "attachments/Pasted image 20260315175950.png": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773586790195,
+      "mtime": 1773586790196
+    },
+    "attachments/Pasted image 20260315180008.png": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773586808866,
+      "mtime": 1773586808868
+    },
+    "attachments/Pasted image 20260315180022.png": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773586822734,
+      "mtime": 1773586822747
+    },
+    "attachments/Pasted image 20260316125622.png": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773654982955,
+      "mtime": 1773654982956
+    },
+    "attachments/Pasted image 20260402021201.png": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1775085121325,
+      "mtime": 1775085121326
+    },
+    "attachments/Pasted image 20260402021237.png": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1775085157314,
+      "mtime": 1775085157315
+    },
+    "attachments/Pasted image 20260411174350.png": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1775918630854,
+      "mtime": 1775918630856
+    },
+    "attachments/Pasted image 20260815144453.png": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1786794293507,
+      "mtime": 1786794293507
+    },
+    "attachments/Pasted image 20260815144620.png": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1786794380987,
+      "mtime": 1786794380988
+    },
+    "attachments/Pasted image 20260815144631.png": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1786794391764,
+      "mtime": 1786794391765
+    },
+    "attachments/Pasted image 20260815144641.png": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1786794401835,
+      "mtime": 1786794401836
+    },
+    "attachments/Pasted image 20260815144651.png": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1786794411517,
+      "mtime": 1786794411517
+    },
+    "attachments/Pasted image 20260815144700.png": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1786794420400,
+      "mtime": 1786794420400
+    },
+    "attachments/Pasted image 20260815144713.png": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1786794433563,
+      "mtime": 1786794433564
+    },
+    "attachments/Pasted image 20260929221836.png": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1790709516670,
+      "mtime": 1790709516671
+    },
+    "attachments/Pasted image 20261031181845.png": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1793459925925,
+      "mtime": 1793459925928
+    },
+    "attachments/Pasted image 20261031181905.png": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1793459945849,
+      "mtime": 1793459945850
+    },
+    "attachments/Razae Upariez, madencinin sahibi, düşünce iğnesini ve halkı efendileri altında köle yapmak istiyor, tüm kölelik tiplerinin getiricisi o.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1772955902330,
+      "mtime": 1772955902331
+    },
+    "attachments/Rulebook - Attributes ve Skills.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792798665243,
+      "mtime": 1792798665244
+    },
+    "attachments/Rulebook - Combat Rulings.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792798665344,
+      "mtime": 1792798665344
+    },
+    "attachments/Rulebook - Combat Specials.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792798665444,
+      "mtime": 1792798665445
+    },
+    "attachments/Rulebook - Dream Weaving.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792798666537,
+      "mtime": 1792798666538
+    },
+    "attachments/Rulebook - Instrument Aide.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792798666339,
+      "mtime": 1792798666339
+    },
+    "attachments/Rulebook - Irklar I.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792798665846,
+      "mtime": 1792798665847
+    },
+    "attachments/Rulebook - Irklar II.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792798665950,
+      "mtime": 1792798665951
+    },
+    "attachments/Rulebook - Irklar III.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792798666047,
+      "mtime": 1792798666048
+    },
+    "attachments/Rulebook - Irklar IV.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792798666141,
+      "mtime": 1792798666141
+    },
+    "attachments/Rulebook - Kara Yürek İlmi.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792800058140,
+      "mtime": 1792800058142
+    },
+    "attachments/Rulebook - Keywords.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792704329648,
+      "mtime": 1792704329650
+    },
+    "attachments/Rulebook - Opening Your Character.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792798665545,
+      "mtime": 1792798665546
+    },
+    "attachments/Rulebook - Repulsion.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792798666435,
+      "mtime": 1792798666436
+    },
+    "attachments/Rulebook - Roll Tables.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792798665746,
+      "mtime": 1792798665747
+    },
+    "attachments/Rulebook - Soul Surge.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792798666237,
+      "mtime": 1792798666239
+    },
+    "attachments/Rulebook - Tokens and Tables.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792798665647,
+      "mtime": 1792798665648
+    },
+    "attachments/Sebilos, Naxal olayını araştıran bir görevli, Upraiez'e çalışıyor ama barışçıl yaklaşacak.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1772956103298,
+      "mtime": 1772956103298
+    },
+    "attachments/Spinosaurus mashup for everyone!! 😁1-spino x bear 2-spino x bear v1 3-spino x carnotaurus 4-spi 1.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1775561277551,
+      "mtime": 1775561277551
+    },
+    "attachments/Spinosaurus mashup for everyone!! 😁1-spino x bear 2-spino x bear v1 3-spino x carnotaurus 4-spi.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1775561273151,
+      "mtime": 1775561273153
+    },
+    "attachments/Tavernadan yana ama ücretle çalışan bir bilek gücü adamı, Pedirs 1.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773414307994,
+      "mtime": 1773414307997
+    },
+    "attachments/Tavernadan yana ama ücretle çalışan bir bilek gücü adamı, Pedirs 2.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1775082455501,
+      "mtime": 1775082455502
+    },
+    "attachments/Tavernadan yana ama ücretle çalışan bir bilek gücü adamı, Pedirs.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773414242762,
+      "mtime": 1773414242763
+    },
+    "attachments/tim.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773654426225,
+      "mtime": 1773654426226
+    },
+    "attachments/Zambia Kafayiyen, eleman uğradığı aşağılamanın ardından itibarını toparlayacak, balon gibi şişiyo korkunç bağırıyo.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773414314326,
+      "mtime": 1773414314326
+    },
+    "attachments/Zebellak, üç cevher etinde, mavi kırmızı yeşil, STR, AGL THG +2 alıyo 2 tur boyu, yanındaki adamlarda 1 turluğuna +2 veren cevherler taşıyo.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1772955702653,
+      "mtime": 1772955702654
+    },
+    "DONE & GONE": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "BİTİRME PROJESİ"
+      ]
+    },
+    "DONE & GONE/BİTİRME PROJESİ": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Notlar.md",
+        "PLAN ZONE.md",
+        "Project Diary.md",
+        "RAPOR.md"
+      ]
+    },
+    "DONE & GONE/BİTİRME PROJESİ/Notlar.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773408136189,
+      "mtime": 1777473007344
+    },
+    "DONE & GONE/BİTİRME PROJESİ/PLAN ZONE.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773408136189,
+      "mtime": 1786309373435
+    },
+    "DONE & GONE/BİTİRME PROJESİ/Project Diary.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1774550531023,
+      "mtime": 1774550634989
+    },
+    "DONE & GONE/BİTİRME PROJESİ/RAPOR.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1775918628045,
+      "mtime": 1776159212855
+    },
+    "Fabulous": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Büyü Sistemleri",
+        "Erikan",
+        "Beseloth'un Çağı.md",
+        "Büyük Buhran - Kıyamet.md",
+        "CLAUDE.md",
+        "Dalga Gezer - Mit.md",
+        "DERLENECEK ESKİ ARŞİV.md",
+        "Fabolous Diyarı.canvas",
+        "Sözlük.md",
+        "Temalar.md"
+      ]
+    },
+    "Fabulous/Beseloth'un Çağı.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1705357868945,
+      "mtime": 1705357923177
+    },
+    "Fabulous/Büyü Sistemleri": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Adlar, Yüzler ve Fikirler.md",
+        "Biyomakine.md",
+        "Büyü Sistem Haritası.canvas",
+        "Gece Gizi.md",
+        "Havarilik Yetileri.md",
+        "Kaçınılmaz Lehçe.md",
+        "Özüt ve Formları.md",
+        "Yürek Hükmü.md"
+      ]
+    },
+    "Fabulous/Büyü Sistemleri/Adlar, Yüzler ve Fikirler.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1702504317044,
+      "mtime": 1756127263553
+    },
+    "Fabulous/Büyü Sistemleri/Biyomakine.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1702503528274,
+      "mtime": 1702503528274
+    },
+    "Fabulous/Büyü Sistemleri/Büyü Sistem Haritası.canvas": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1702502804740,
+      "mtime": 1702502989736
+    },
+    "Fabulous/Büyü Sistemleri/Gece Gizi.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1702503453548,
+      "mtime": 1705354962450
+    },
+    "Fabulous/Büyü Sistemleri/Havarilik Yetileri.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1702503528274,
+      "mtime": 1702503939261
+    },
+    "Fabulous/Büyü Sistemleri/Kaçınılmaz Lehçe.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1702504075896,
+      "mtime": 1756127520759
+    },
+    "Fabulous/Büyü Sistemleri/Yürek Hükmü.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1702503963178,
+      "mtime": 1702504050699
+    },
+    "Fabulous/Büyü Sistemleri/Özüt ve Formları.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1702502989727,
+      "mtime": 1703673489861
+    },
+    "Fabulous/Büyük Buhran - Kıyamet.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1692718637309,
+      "mtime": 1692731035004
+    },
+    "Fabulous/CLAUDE.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792546760311,
+      "mtime": 1792546760311
+    },
+    "Fabulous/Dalga Gezer - Mit.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1692718637309,
+      "mtime": 1692734244957
+    },
+    "Fabulous/Erikan": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Aldha'Khaar",
+        "Aldha'Menor",
+        "Angora",
+        "Calibarrion",
+        "Far'Yadox",
+        "Gaga Klanı",
+        "Jasckzhea",
+        "Karsan",
+        "Kharan",
+        "Nea'Vaii",
+        "Olia'Naran",
+        "Patton",
+        "Sintra",
+        "Tayhun Boyları"
+      ]
+    },
+    "Fabulous/Erikan/Aldha'Khaar": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": []
+    },
+    "Fabulous/Erikan/Aldha'Menor": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "İnançlar",
+        "Aldha'Menor.canvas",
+        "İnsan Yurdu.md",
+        "Tarihi ve Dönemleri.md",
+        "Yöneticiler Külliyatı.md"
+      ]
+    },
+    "Fabulous/Erikan/Aldha'Menor/Aldha'Menor.canvas": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1692529038491,
+      "mtime": 1792545614880
+    },
+    "Fabulous/Erikan/Aldha'Menor/İnançlar": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Efsaneler.md",
+        "Gök Dini.md",
+        "Gün Dini.md",
+        "Kozmos Dini.md"
+      ]
+    },
+    "Fabulous/Erikan/Aldha'Menor/İnançlar/Efsaneler.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1692647916278,
+      "mtime": 1692653060265
+    },
+    "Fabulous/Erikan/Aldha'Menor/İnançlar/Gök Dini.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1692541812718,
+      "mtime": 1692652859868
+    },
+    "Fabulous/Erikan/Aldha'Menor/İnançlar/Gün Dini.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1692541724272,
+      "mtime": 1756822798766
+    },
+    "Fabulous/Erikan/Aldha'Menor/İnançlar/Kozmos Dini.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1692541813643,
+      "mtime": 1692541813643
+    },
+    "Fabulous/Erikan/Aldha'Menor/Yöneticiler Külliyatı.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1692541411540,
+      "mtime": 1712169358427
+    },
+    "Fabulous/Erikan/Aldha'Menor/Tarihi ve Dönemleri.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1692529126214,
+      "mtime": 1692653964902
+    },
+    "Fabulous/Erikan/Aldha'Menor/İnsan Yurdu.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1692528950264,
+      "mtime": 1776783013026
+    },
+    "Fabulous/Erikan/Angora": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": []
+    },
+    "Fabulous/Erikan/Calibarrion": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Calibarrion Hanedanlığı.md"
+      ]
+    },
+    "Fabulous/Erikan/Calibarrion/Calibarrion Hanedanlığı.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1702507787269,
+      "mtime": 1702507821132
+    },
+    "Fabulous/Erikan/Far'Yadox": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Far'Yadox.md"
+      ]
+    },
+    "Fabulous/Erikan/Far'Yadox/Far'Yadox.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1760258919067,
+      "mtime": 1760259376980
+    },
+    "Fabulous/Erikan/Gaga Klanı": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": []
+    },
+    "Fabulous/Erikan/Jasckzhea": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Jayin'Ev'Ulun.md"
+      ]
+    },
+    "Fabulous/Erikan/Jasckzhea/Jayin'Ev'Ulun.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1776598961698,
+      "mtime": 1776598984159
+    },
+    "Fabulous/Erikan/Karsan": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": []
+    },
+    "Fabulous/Erikan/Kharan": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Kharan Irkı.md"
+      ]
+    },
+    "Fabulous/Erikan/Kharan/Kharan Irkı.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1768427938814,
+      "mtime": 1768428548405
+    },
+    "Fabulous/Erikan/Nea'Vaii": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Mavi Çöl.md"
+      ]
+    },
+    "Fabulous/Erikan/Nea'Vaii/Mavi Çöl.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1709384576599,
+      "mtime": 1709384792438
+    },
+    "Fabulous/Erikan/Olia'Naran": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": []
+    },
+    "Fabulous/Erikan/Patton": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": []
+    },
+    "Fabulous/Erikan/Sintra": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Sisler Ülkesi.md"
+      ]
+    },
+    "Fabulous/Erikan/Sintra/Sisler Ülkesi.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1702507862363,
+      "mtime": 1774782749766
+    },
+    "Fabulous/Erikan/Tayhun Boyları": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Tayhun Halkı.md"
+      ]
+    },
+    "Fabulous/Erikan/Tayhun Boyları/Tayhun Halkı.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1702507592438,
+      "mtime": 1770583665477
+    },
+    "Fabulous/DERLENECEK ESKİ ARŞİV.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1793456192186,
+      "mtime": 1793456203746
+    },
+    "Fabulous/Fabolous Diyarı.canvas": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1692530989464,
+      "mtime": 1792545614880
+    },
+    "Fabulous/Sözlük.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1693323566369,
+      "mtime": 1693325826013
+    },
+    "Fabulous/Temalar.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1776434134030,
+      "mtime": 1776434140181
+    },
+    "FRP - TTRPG": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Cyberpunk",
+        "Emenos'un Gölgeli Sokakları",
+        "Naxal ve Düşünce İğnesi",
+        "SYSTEM DESIGN"
+      ]
+    },
+    "FRP - TTRPG/Cyberpunk": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Shaan Gulati.md"
+      ]
+    },
+    "FRP - TTRPG/Cyberpunk/Shaan Gulati.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1783021735074,
+      "mtime": 1785690383047
+    },
+    "FRP - TTRPG/Emenos'un Gölgeli Sokakları": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Karakterler",
+        "Taraflar",
+        "AMBIANCE.md",
+        "CLAUDE.md",
+        "EMENOS CANVAS.canvas",
+        "Geçmiş Session'lar deposu.md",
+        "OLAYLAR.md",
+        "Sonraki Session Notları.md",
+        "Taraflar.md"
+      ]
+    },
+    "FRP - TTRPG/Emenos'un Gölgeli Sokakları/AMBIANCE.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1776980484292,
+      "mtime": 1792870752024
+    },
+    "FRP - TTRPG/Emenos'un Gölgeli Sokakları/CLAUDE.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792546760546,
+      "mtime": 1792546760546
+    },
+    "FRP - TTRPG/Emenos'un Gölgeli Sokakları/EMENOS CANVAS.canvas": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1774709865694,
+      "mtime": 1774710052149
+    },
+    "FRP - TTRPG/Emenos'un Gölgeli Sokakları/Geçmiş Session'lar deposu.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773347251547,
+      "mtime": 1793038233535
+    },
+    "FRP - TTRPG/Emenos'un Gölgeli Sokakları/Karakterler": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Achelli.md",
+        "Arhun'Tila.md",
+        "Armada.md",
+        "Elena'nın Kızları.md",
+        "Gael.md",
+        "Karmino.md",
+        "Leila Sarıkız.md",
+        "Manjusha.md",
+        "Raymond Mendelez.md",
+        "Serena Mays.md",
+        "Ulmo Maxwell.md",
+        "Vicente.md"
+      ]
+    },
+    "FRP - TTRPG/Emenos'un Gölgeli Sokakları/Karakterler/Achelli.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1775523234817,
+      "mtime": 1776446597976
+    },
+    "FRP - TTRPG/Emenos'un Gölgeli Sokakları/Karakterler/Arhun'Tila.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1775085012936,
+      "mtime": 1775169740770
+    },
+    "FRP - TTRPG/Emenos'un Gölgeli Sokakları/Karakterler/Armada.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1777647258661,
+      "mtime": 1777647280166
+    },
+    "FRP - TTRPG/Emenos'un Gölgeli Sokakları/Karakterler/Elena'nın Kızları.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1775169801997,
+      "mtime": 1775524849464
+    },
+    "FRP - TTRPG/Emenos'un Gölgeli Sokakları/Karakterler/Gael.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1774709925053,
+      "mtime": 1776434214423
+    },
+    "FRP - TTRPG/Emenos'un Gölgeli Sokakları/Karakterler/Karmino.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773346879540,
+      "mtime": 1792862921041
+    },
+    "FRP - TTRPG/Emenos'un Gölgeli Sokakları/Karakterler/Leila Sarıkız.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773346938126,
+      "mtime": 1793275047712
+    },
+    "FRP - TTRPG/Emenos'un Gölgeli Sokakları/Karakterler/Manjusha.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773347096494,
+      "mtime": 1793038190893
+    },
+    "FRP - TTRPG/Emenos'un Gölgeli Sokakları/Karakterler/Raymond Mendelez.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773347009865,
+      "mtime": 1773347169007
+    },
+    "FRP - TTRPG/Emenos'un Gölgeli Sokakları/Karakterler/Serena Mays.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773346938126,
+      "mtime": 1776935396658
+    },
+    "FRP - TTRPG/Emenos'un Gölgeli Sokakları/Karakterler/Ulmo Maxwell.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773346816796,
+      "mtime": 1773347136085
+    },
+    "FRP - TTRPG/Emenos'un Gölgeli Sokakları/Karakterler/Vicente.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1775523621938,
+      "mtime": 1776444776905
+    },
+    "FRP - TTRPG/Emenos'un Gölgeli Sokakları/OLAYLAR.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773346890624,
+      "mtime": 1773347306209
+    },
+    "FRP - TTRPG/Emenos'un Gölgeli Sokakları/Sonraki Session Notları.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773346734754,
+      "mtime": 1792862884677
+    },
+    "FRP - TTRPG/Emenos'un Gölgeli Sokakları/Taraflar": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Dumansokağı Gaspçıları.md"
+      ]
+    },
+    "FRP - TTRPG/Emenos'un Gölgeli Sokakları/Taraflar/Dumansokağı Gaspçıları.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1793542854330,
+      "mtime": 1793542872558
+    },
+    "FRP - TTRPG/Emenos'un Gölgeli Sokakları/Taraflar.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1774274063939,
+      "mtime": 1776958486376
+    },
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Arşiv",
+        "Hikaye & Olay Dizisi",
+        "Karakterler",
+        "Karalama",
+        "CLAUDE.md",
+        "NAXAL CANVAS.canvas",
+        "SONRAKİ SESSİONLAR İÇİN.md"
+      ]
+    },
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Arşiv": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "AMBIANCE.md",
+        "Dövüş Arşivi, Düşmanlar ve Karşılaşmalar.md",
+        "Eşya ve Kavram Arşivi.md",
+        "Session Takip ve Notları.md",
+        "Ton ve Eğilimler.md"
+      ]
+    },
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Arşiv/AMBIANCE.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773658052965,
+      "mtime": 1776678041939
+    },
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Arşiv/Dövüş Arşivi, Düşmanlar ve Karşılaşmalar.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1774708714702,
+      "mtime": 1790710042973
+    },
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Arşiv/Eşya ve Kavram Arşivi.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773653246711,
+      "mtime": 1775472425131
+    },
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Arşiv/Session Takip ve Notları.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1772953136193,
+      "mtime": 1779130329395
+    },
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Arşiv/Ton ve Eğilimler.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1772953136193,
+      "mtime": 1775942606577
+    },
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Hikaye & Olay Dizisi": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Akılsızlar.md",
+        "Aksaağaç Tavernası . Xanleaf.md",
+        "Ametist Hayalet ve Son Işık Direnişi.md",
+        "Geçit Bekçileri.md",
+        "Hikaye & Olay Dizisi.md",
+        "Hovoz'un Madenleri.md",
+        "Kalan Her Şey.md",
+        "Müptelalar.md",
+        "Palamud Yarasaları.md",
+        "Razae Marhaz.md",
+        "Razae Upariez, yükselen hüküm.md",
+        "Safir Efendiler ve Mavi Keşişler.md",
+        "Suskunlar.md",
+        "Tavus Sarayı.md"
+      ]
+    },
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Hikaye & Olay Dizisi/Aksaağaç Tavernası . Xanleaf.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1775906164583,
+      "mtime": 1775907141963
+    },
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Hikaye & Olay Dizisi/Akılsızlar.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1775906885408,
+      "mtime": 1775906885408
+    },
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Hikaye & Olay Dizisi/Ametist Hayalet ve Son Işık Direnişi.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1775906305089,
+      "mtime": 1776871595324
+    },
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Hikaye & Olay Dizisi/Geçit Bekçileri.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1775906431003,
+      "mtime": 1775907150904
+    },
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Hikaye & Olay Dizisi/Hikaye & Olay Dizisi.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1772953136193,
+      "mtime": 1775906645146
+    },
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Hikaye & Olay Dizisi/Hovoz'un Madenleri.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1775906217989,
+      "mtime": 1775906998063
+    },
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Hikaye & Olay Dizisi/Kalan Her Şey.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1775906431003,
+      "mtime": 1775906823492
+    },
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Hikaye & Olay Dizisi/Müptelalar.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1775906337202,
+      "mtime": 1775906963492
+    },
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Hikaye & Olay Dizisi/Palamud Yarasaları.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1775906381047,
+      "mtime": 1776623901946
+    },
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Hikaye & Olay Dizisi/Razae Marhaz.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1775906804716,
+      "mtime": 1775907176402
+    },
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Hikaye & Olay Dizisi/Razae Upariez, yükselen hüküm.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1775906261997,
+      "mtime": 1775906270727
+    },
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Hikaye & Olay Dizisi/Safir Efendiler ve Mavi Keşişler.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1775906381047,
+      "mtime": 1776078382383
+    },
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Hikaye & Olay Dizisi/Suskunlar.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1775906337202,
+      "mtime": 1776598850204
+    },
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Hikaye & Olay Dizisi/Tavus Sarayı.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1775906261997,
+      "mtime": 1775906791746
+    },
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/CLAUDE.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1793278261004,
+      "mtime": 1793278261005
+    },
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Karakterler": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Banx.md",
+        "Jish'Ajinn.md",
+        "Kian Webb.md",
+        "Naxal.md",
+        "Sanja.md"
+      ]
+    },
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Karakterler/Banx.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1772953859433,
+      "mtime": 1776598888654
+    },
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Karakterler/Jish'Ajinn.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1772953859433,
+      "mtime": 1778419275957
+    },
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Karakterler/Kian Webb.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1772953697986,
+      "mtime": 1778432957691
+    },
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Karakterler/Naxal.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1772955531050,
+      "mtime": 1775926993870
+    },
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Karakterler/Sanja.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1772953766412,
+      "mtime": 1775906120326
+    },
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Karalama": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "HİKAYE Karalama Alanı.md",
+        "Karalama Alanı DÖVÜŞ.md"
+      ]
+    },
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Karalama/HİKAYE Karalama Alanı.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1772959354197,
+      "mtime": 1775051412650
+    },
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/Karalama/Karalama Alanı DÖVÜŞ.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1772959260463,
+      "mtime": 1774709202483
+    },
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/NAXAL CANVAS.canvas": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1774708619719,
+      "mtime": 1778443888038
+    },
+    "FRP - TTRPG/Naxal ve Düşünce İğnesi/SONRAKİ SESSİONLAR İÇİN.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1772953136193,
+      "mtime": 1776621395249
+    },
+    "FRP - TTRPG/SYSTEM DESIGN": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Campaigns",
+        "LEGACY SYSTEM",
+        "Narrative System",
+        "KURAL KITABI DERLEMESI.md",
+        "Rulebook Aktarım Takibi.md",
+        "Style Notes.md",
+        "Uyarlama Soru Listesi.md",
+        "Yeni Sistem İnşa Panosu.md"
+      ]
+    },
+    "FRP - TTRPG/SYSTEM DESIGN/Campaigns": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "The Forest of the Crimson King.md"
+      ]
+    },
+    "FRP - TTRPG/SYSTEM DESIGN/Campaigns/The Forest of the Crimson King.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1776598905526,
+      "mtime": 1776598935850
+    },
+    "FRP - TTRPG/SYSTEM DESIGN/KURAL KITABI DERLEMESI.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1793456007152,
+      "mtime": 1793456062672
+    },
+    "FRP - TTRPG/SYSTEM DESIGN/LEGACY SYSTEM": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Beceri Sistemleri",
+        "Erikanlar",
+        "Kurallar",
+        "Tablolar"
+      ]
+    },
+    "FRP - TTRPG/SYSTEM DESIGN/LEGACY SYSTEM/Beceri Sistemleri": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Dream Weaving.md",
+        "Instrument Aide.md",
+        "Kara Yürek İlmi.md",
+        "Repulsion.md",
+        "Soul Surge.md"
+      ]
+    },
+    "FRP - TTRPG/SYSTEM DESIGN/LEGACY SYSTEM/Beceri Sistemleri/Dream Weaving.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792799206339,
+      "mtime": 1793278059502
+    },
+    "FRP - TTRPG/SYSTEM DESIGN/LEGACY SYSTEM/Beceri Sistemleri/Instrument Aide.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792888786256,
+      "mtime": 1793278059505
+    },
+    "FRP - TTRPG/SYSTEM DESIGN/LEGACY SYSTEM/Beceri Sistemleri/Kara Yürek İlmi.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792800161455,
+      "mtime": 1793278059513
+    },
+    "FRP - TTRPG/SYSTEM DESIGN/LEGACY SYSTEM/Beceri Sistemleri/Repulsion.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792799206338,
+      "mtime": 1793278059518
+    },
+    "FRP - TTRPG/SYSTEM DESIGN/LEGACY SYSTEM/Beceri Sistemleri/Soul Surge.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792799206335,
+      "mtime": 1793278059524
+    },
+    "FRP - TTRPG/SYSTEM DESIGN/LEGACY SYSTEM/Erikanlar": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Arik'Xea.md",
+        "Azothan.md",
+        "Bâi.md",
+        "İlkkan.md",
+        "Irk Taslak Panosu.md",
+        "Kharan.md",
+        "Orenn.md",
+        "Raw Binders.md",
+        "Seers of Tayhun.md",
+        "Senea.md",
+        "Shepherds.md",
+        "Vikos'Anel.md"
+      ]
+    },
+    "FRP - TTRPG/SYSTEM DESIGN/LEGACY SYSTEM/Erikanlar/Arik'Xea.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792799206340,
+      "mtime": 1793278059436
+    },
+    "FRP - TTRPG/SYSTEM DESIGN/LEGACY SYSTEM/Erikanlar/Azothan.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792799206343,
+      "mtime": 1793278059420
+    },
+    "FRP - TTRPG/SYSTEM DESIGN/LEGACY SYSTEM/Erikanlar/Irk Taslak Panosu.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792799206350,
+      "mtime": 1793278059441
+    },
+    "FRP - TTRPG/SYSTEM DESIGN/LEGACY SYSTEM/Erikanlar/Bâi.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792799206344,
+      "mtime": 1793278059427
+    },
+    "FRP - TTRPG/SYSTEM DESIGN/LEGACY SYSTEM/Erikanlar/Kharan.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792799206345,
+      "mtime": 1793278059448
+    },
+    "FRP - TTRPG/SYSTEM DESIGN/LEGACY SYSTEM/Erikanlar/Orenn.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792799206343,
+      "mtime": 1793278059455
+    },
+    "FRP - TTRPG/SYSTEM DESIGN/LEGACY SYSTEM/Erikanlar/Raw Binders.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792799206348,
+      "mtime": 1793278059468
+    },
+    "FRP - TTRPG/SYSTEM DESIGN/LEGACY SYSTEM/Erikanlar/Seers of Tayhun.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792799206348,
+      "mtime": 1793278059482
+    },
+    "FRP - TTRPG/SYSTEM DESIGN/LEGACY SYSTEM/Erikanlar/Senea.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792799206347,
+      "mtime": 1793278059494
+    },
+    "FRP - TTRPG/SYSTEM DESIGN/LEGACY SYSTEM/Erikanlar/Shepherds.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792799206349,
+      "mtime": 1793278059459
+    },
+    "FRP - TTRPG/SYSTEM DESIGN/LEGACY SYSTEM/Erikanlar/Vikos'Anel.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792799206346,
+      "mtime": 1793278059473
+    },
+    "FRP - TTRPG/SYSTEM DESIGN/LEGACY SYSTEM/Erikanlar/İlkkan.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792799206341,
+      "mtime": 1793278059483
+    },
+    "FRP - TTRPG/SYSTEM DESIGN/LEGACY SYSTEM/Kurallar": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Attributes ve Skills.md",
+        "Combat Rulings.md",
+        "Combat Specials.md",
+        "General Rulings.md",
+        "Karakter Açılışı.md",
+        "Keywords.md",
+        "Tokenler ve Sayaçlar.md"
+      ]
+    },
+    "FRP - TTRPG/SYSTEM DESIGN/LEGACY SYSTEM/Kurallar/Attributes ve Skills.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1793278249870,
+      "mtime": 1793278249870
+    },
+    "FRP - TTRPG/SYSTEM DESIGN/LEGACY SYSTEM/Kurallar/Combat Rulings.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1793278249919,
+      "mtime": 1793278249919
+    },
+    "FRP - TTRPG/SYSTEM DESIGN/LEGACY SYSTEM/Kurallar/Combat Specials.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792799206321,
+      "mtime": 1793278059386
+    },
+    "FRP - TTRPG/SYSTEM DESIGN/LEGACY SYSTEM/Kurallar/General Rulings.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792799206340,
+      "mtime": 1793278059388
+    },
+    "FRP - TTRPG/SYSTEM DESIGN/LEGACY SYSTEM/Kurallar/Karakter Açılışı.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1793278249970,
+      "mtime": 1793278249970
+    },
+    "FRP - TTRPG/SYSTEM DESIGN/LEGACY SYSTEM/Kurallar/Keywords.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1793278250020,
+      "mtime": 1793278250021
+    },
+    "FRP - TTRPG/SYSTEM DESIGN/LEGACY SYSTEM/Kurallar/Tokenler ve Sayaçlar.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1793278250069,
+      "mtime": 1793278250070
+    },
+    "FRP - TTRPG/SYSTEM DESIGN/LEGACY SYSTEM/Tablolar": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Roll Tables.md"
+      ]
+    },
+    "FRP - TTRPG/SYSTEM DESIGN/LEGACY SYSTEM/Tablolar/Roll Tables.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792799206335,
+      "mtime": 1793278059346
+    },
+    "FRP - TTRPG/SYSTEM DESIGN/Narrative System": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Beceri Sistemleri",
+        "Erikan",
+        "Tablolar",
+        "Actions.md",
+        "Feats.md",
+        "Progression.md",
+        "Stats.md",
+        "System Hub.md",
+        "Tokens.md"
+      ]
+    },
+    "FRP - TTRPG/SYSTEM DESIGN/Narrative System/Actions.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1793407121692,
+      "mtime": 1793407121694
+    },
+    "FRP - TTRPG/SYSTEM DESIGN/Narrative System/Beceri Sistemleri": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": []
+    },
+    "FRP - TTRPG/SYSTEM DESIGN/Narrative System/Erikan": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": []
+    },
+    "FRP - TTRPG/SYSTEM DESIGN/Narrative System/Feats.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1793407318025,
+      "mtime": 1793407318025
+    },
+    "FRP - TTRPG/SYSTEM DESIGN/Narrative System/Progression.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1793407203507,
+      "mtime": 1793407683154
+    },
+    "FRP - TTRPG/SYSTEM DESIGN/Narrative System/Stats.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1793407183558,
+      "mtime": 1793407683153
+    },
+    "FRP - TTRPG/SYSTEM DESIGN/Narrative System/System Hub.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1793407607646,
+      "mtime": 1793407607648
+    },
+    "FRP - TTRPG/SYSTEM DESIGN/Narrative System/Tablolar": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": []
+    },
+    "FRP - TTRPG/SYSTEM DESIGN/Narrative System/Tokens.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1793407389270,
+      "mtime": 1793407683155
+    },
+    "FRP - TTRPG/SYSTEM DESIGN/Style Notes.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1793407590287,
+      "mtime": 1793407590287
+    },
+    "FRP - TTRPG/SYSTEM DESIGN/Rulebook Aktarım Takibi.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1793278250119,
+      "mtime": 1793278250121
+    },
+    "FRP - TTRPG/SYSTEM DESIGN/Uyarlama Soru Listesi.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1793385601325,
+      "mtime": 1793400174534
+    },
+    "FRP - TTRPG/SYSTEM DESIGN/Yeni Sistem İnşa Panosu.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1793407633698,
+      "mtime": 1793407633699
+    },
+    "Kitaplar": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Kısa Hikayeler",
+        "Yaşbahar Mucizesi"
+      ]
+    },
+    "Kitaplar/Kısa Hikayeler": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Gözü Bürümüş.md"
+      ]
+    },
+    "Kitaplar/Kısa Hikayeler/Gözü Bürümüş.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1793459573608,
+      "mtime": 1793459584488
+    },
+    "Kitaplar/Yaşbahar Mucizesi": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Asena Kitap Notları.md",
+        "Kapak, Arka Kapak ve Ön söz.md",
+        "Kısım 1 - Yaşbahar Mucizesi.md",
+        "Kısım 2 - Atalar ve Canavarlar.md",
+        "Kısım 3 - Şergüzeli Tohumları.md",
+        "Kısım 4 - Kaçak Kahraman.md",
+        "Kısım 5 - Bağlar Kökü.md",
+        "Kısım 6 - Altın Doğuş.md",
+        "Kısım 7 - Şafak Bekçisi.md",
+        "Kısım 8 - Kayıp Yarınlar.md",
+        "Taslaklar Deposu.md"
+      ]
+    },
+    "Kitaplar/Yaşbahar Mucizesi/Asena Kitap Notları.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1774708470082,
+      "mtime": 1777036148441
+    },
+    "Kitaplar/Yaşbahar Mucizesi/Kapak, Arka Kapak ve Ön söz.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1793459861056,
+      "mtime": 1793459998885
+    },
+    "Kitaplar/Yaşbahar Mucizesi/Kısım 1 - Yaşbahar Mucizesi.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1793459661036,
+      "mtime": 1793460589529
+    },
+    "Kitaplar/Yaşbahar Mucizesi/Kısım 2 - Atalar ve Canavarlar.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1793459661036,
+      "mtime": 1793460028216
+    },
+    "Kitaplar/Yaşbahar Mucizesi/Kısım 3 - Şergüzeli Tohumları.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1793459661036,
+      "mtime": 1794062088628
+    },
+    "Kitaplar/Yaşbahar Mucizesi/Kısım 4 - Kaçak Kahraman.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1793459661036,
+      "mtime": 1794063052959
+    },
+    "Kitaplar/Yaşbahar Mucizesi/Kısım 5 - Bağlar Kökü.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1793460608688,
+      "mtime": 1793460608688
+    },
+    "Kitaplar/Yaşbahar Mucizesi/Kısım 6 - Altın Doğuş.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1793460667949,
+      "mtime": 1793460667949
+    },
+    "Kitaplar/Yaşbahar Mucizesi/Kısım 7 - Şafak Bekçisi.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1793460703345,
+      "mtime": 1793460703345
+    },
+    "Kitaplar/Yaşbahar Mucizesi/Taslaklar Deposu.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1793459661036,
+      "mtime": 1793541677352
+    },
+    "Kitaplar/Yaşbahar Mucizesi/Kısım 8 - Kayıp Yarınlar.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1793460703345,
+      "mtime": 1793460719636
+    },
+    "MEDENİYETLER (derlenecek ve geçirilecek).pdf": {
+      "isPinned": false,
+      "isHidden": true,
+      "ctime": 1793456245741,
+      "mtime": 1793456246233
+    },
+    "NOTLAR": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "AI",
+        "Blender.md",
+        "How to Obsidian.md",
+        "Oyun Magazini.md"
+      ]
+    },
+    "NOTLAR/AI": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "CLAUDE.md"
+      ]
+    },
+    "NOTLAR/AI/CLAUDE.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1793278260863,
+      "mtime": 1793278260863
+    },
+    "NOTLAR/Blender.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1786794043311,
+      "mtime": 1786795680784
+    },
+    "NOTLAR/How to Obsidian.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1768430887494,
+      "mtime": 1768431872192
+    },
+    "NOTLAR/Oyun Magazini.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794084316166,
+      "mtime": 1794086130575
+    },
+    "OYUNLAR": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Asena Oyun",
+        "Fabulous Centuries",
+        "FasterPunch",
+        "ForABetterDay",
+        "KSM",
+        "WinterTale",
+        "Emenos RPG.md"
+      ]
+    },
+    "OYUNLAR/Asena Oyun": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Combat and Mechanics Design.md",
+        "Geliştirme Planı.md",
+        "Oyunun Öncelikleri ve Ruhu.md",
+        "Yan Eklentiler - Görevler.md"
+      ]
+    },
+    "OYUNLAR/Asena Oyun/Combat and Mechanics Design.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1770555195613,
+      "mtime": 1792544219349
+    },
+    "OYUNLAR/Asena Oyun/Geliştirme Planı.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1772650942417,
+      "mtime": 1773407583907
+    },
+    "OYUNLAR/Asena Oyun/Oyunun Öncelikleri ve Ruhu.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773406891853,
+      "mtime": 1773407339498
+    },
+    "OYUNLAR/Asena Oyun/Yan Eklentiler - Görevler.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1772884888673,
+      "mtime": 1772885356661
+    },
+    "OYUNLAR/Emenos RPG.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1793456846986,
+      "mtime": 1793456873172
+    },
+    "OYUNLAR/Fabulous Centuries": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Card Game Design Document.md",
+        "Centuries To-Do List.md",
+        "Prompts.md"
+      ]
+    },
+    "OYUNLAR/Fabulous Centuries/Card Game Design Document.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1770583967946,
+      "mtime": 1784754064123
+    },
+    "OYUNLAR/Fabulous Centuries/Centuries To-Do List.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1770584043612,
+      "mtime": 1782080514959
+    },
+    "OYUNLAR/Fabulous Centuries/Prompts.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791133204253,
+      "mtime": 1791133444907
+    },
+    "OYUNLAR/FasterPunch": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "GAMEDESIIIGN.md"
+      ]
+    },
+    "OYUNLAR/FasterPunch/GAMEDESIIIGN.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1777382858045,
+      "mtime": 1778279429483
+    },
+    "OYUNLAR/ForABetterDay": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Hikaye",
+        "Kompozisyon",
+        "Oyun Sistemleri",
+        "Oyun Dökümanı.md",
+        "Oyun Şeması.canvas"
+      ]
+    },
+    "OYUNLAR/ForABetterDay/Hikaye": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": []
+    },
+    "OYUNLAR/ForABetterDay/Kompozisyon": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Bölümler",
+        "Dönemler",
+        "Varyantlar"
+      ]
+    },
+    "OYUNLAR/ForABetterDay/Kompozisyon/Bölümler": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Keder Şatosu.md",
+        "Kristal Kanyon.md",
+        "Mağara Göleti Harabeleri.md"
+      ]
+    },
+    "OYUNLAR/ForABetterDay/Kompozisyon/Bölümler/Keder Şatosu.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1700319655456,
+      "mtime": 1700319655456
+    },
+    "OYUNLAR/ForABetterDay/Kompozisyon/Bölümler/Kristal Kanyon.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1700318318357,
+      "mtime": 1700324405880
+    },
+    "OYUNLAR/ForABetterDay/Kompozisyon/Bölümler/Mağara Göleti Harabeleri.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1700319615484,
+      "mtime": 1704926131783
+    },
+    "OYUNLAR/ForABetterDay/Kompozisyon/Dönemler": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": []
+    },
+    "OYUNLAR/ForABetterDay/Kompozisyon/Varyantlar": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": []
+    },
+    "OYUNLAR/ForABetterDay/Oyun Dökümanı.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1704925079414,
+      "mtime": 1704926039172
+    },
+    "OYUNLAR/ForABetterDay/Oyun Sistemleri": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Bosslar",
+        "Jokerler",
+        "Kilit Karakterler",
+        "Yetenekler"
+      ]
+    },
+    "OYUNLAR/ForABetterDay/Oyun Sistemleri/Bosslar": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": []
+    },
+    "OYUNLAR/ForABetterDay/Oyun Sistemleri/Jokerler": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": []
+    },
+    "OYUNLAR/ForABetterDay/Oyun Sistemleri/Kilit Karakterler": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": []
+    },
+    "OYUNLAR/ForABetterDay/Oyun Sistemleri/Yetenekler": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": []
+    },
+    "OYUNLAR/ForABetterDay/Oyun Şeması.canvas": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1700318223123,
+      "mtime": 1700318280403
+    },
+    "OYUNLAR/KSM": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Design.md"
+      ]
+    },
+    "OYUNLAR/KSM/Design.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1780826367391,
+      "mtime": 1781994936295
+    },
+    "OYUNLAR/WinterTale": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "GDD.md",
+        "PLAN.md"
+      ]
+    },
+    "OYUNLAR/WinterTale/GDD.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1787904939141,
+      "mtime": 1787904960655
+    },
+    "OYUNLAR/WinterTale/PLAN.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1786279251151,
+      "mtime": 1786308874076
+    },
+    "PXZ'S": {
+      "isPinned": false,
+      "isHidden": true,
+      "sortOrder": "custom",
+      "customOrder": [
+        "annie-spratt-6a3nqQ1YwBw-unsplash.pxz",
+        "annie-spratt-6a3nqQ1YwBw-unsplash(2).pxz",
+        "annie-spratt-6a3nqQ1YwBw-unsplash3.pxz",
+        "annie-spratt-6a3nqQ1YwBw-unsplash4.pxz",
+        "annie-spratt-6a3nqQ1YwBw-unsplash5.pxz",
+        "annie-spratt-6a3nqQ1YwBw-unsplash6.pxz",
+        "annie-spratt-6a3nqQ1YwBw-unsplash7.pxz",
+        "annie-spratt-6a3nqQ1YwBw-unsplash8.pxz",
+        "annie-spratt-6a3nqQ1YwBw-unsplash9.pxz",
+        "annie-spratt-6a3nqQ1YwBw-unsplash10.pxz",
+        "annie-spratt-6a3nqQ1YwBw-unsplash11.pxz",
+        "annie-spratt-6a3nqQ1YwBw-unsplash12.pxz",
+        "Combat Rulings.pxz",
+        "darkheartSkills.pxz",
+        "emm.pxz",
+        "Untitled.pxz",
+        "Untitled1.pxz",
+        "Untitled2.pxz"
+      ]
+    },
+    "PXZ'S/annie-spratt-6a3nqQ1YwBw-unsplash(2).pxz": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792703710601,
+      "mtime": 1792703711583
+    },
+    "PXZ'S/annie-spratt-6a3nqQ1YwBw-unsplash.pxz": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792703684795,
+      "mtime": 1792703697107
+    },
+    "PXZ'S/annie-spratt-6a3nqQ1YwBw-unsplash11.pxz": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792703956382,
+      "mtime": 1792703957405
+    },
+    "PXZ'S/annie-spratt-6a3nqQ1YwBw-unsplash10.pxz": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792703917988,
+      "mtime": 1792703918943
+    },
+    "PXZ'S/annie-spratt-6a3nqQ1YwBw-unsplash12.pxz": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792704116604,
+      "mtime": 1792704117633
+    },
+    "PXZ'S/annie-spratt-6a3nqQ1YwBw-unsplash3.pxz": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792703731864,
+      "mtime": 1792703732814
+    },
+    "PXZ'S/annie-spratt-6a3nqQ1YwBw-unsplash4.pxz": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792703766895,
+      "mtime": 1792703768529
+    },
+    "PXZ'S/annie-spratt-6a3nqQ1YwBw-unsplash5.pxz": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792703797652,
+      "mtime": 1792703798952
+    },
+    "PXZ'S/annie-spratt-6a3nqQ1YwBw-unsplash6.pxz": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792703812672,
+      "mtime": 1792703813615
+    },
+    "PXZ'S/annie-spratt-6a3nqQ1YwBw-unsplash7.pxz": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792703845334,
+      "mtime": 1792703846906
+    },
+    "PXZ'S/annie-spratt-6a3nqQ1YwBw-unsplash8.pxz": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792703863520,
+      "mtime": 1792703864523
+    },
+    "PXZ'S/annie-spratt-6a3nqQ1YwBw-unsplash9.pxz": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792703879693,
+      "mtime": 1792703881051
+    },
+    "PXZ'S/Combat Rulings.pxz": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792703665045,
+      "mtime": 1792703666965
+    },
+    "PXZ'S/darkheartSkills.pxz": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792703894132,
+      "mtime": 1792703895530
+    },
+    "PXZ'S/emm.pxz": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792703782704,
+      "mtime": 1792703784944
+    },
+    "PXZ'S/Untitled.pxz": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792703745319,
+      "mtime": 1792703747115
+    },
+    "PXZ'S/Untitled1.pxz": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792703827078,
+      "mtime": 1792703829615
+    },
+    "PXZ'S/Untitled2.pxz": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792704092204,
+      "mtime": 1792704094487
+    },
+    "RulebookPDFS": {
+      "isPinned": false,
+      "isHidden": true,
+      "sortOrder": "custom",
+      "customOrder": [
+        "annie-spratt-6a3nqQ1YwBw-unsplash.pdf",
+        "annie-spratt-6a3nqQ1YwBw-unsplashgrt.pdf",
+        "annie-spratt-6a3nqQ1YwBw-unsplashh.pdf",
+        "annie-spratt-6a3nqQ1YwBw-unsplashhh.pdf",
+        "annie-spratt-6a3nqQ1YwBw-unsplashhhh.pdf",
+        "annie-spratt-6a3nqQ1YwBw-unsplashs.pdf",
+        "annie-spratt-6a3nqQ1YwBw-unsplashss.pdf",
+        "annie-spratt-6a3nqQ1YwBw-unsplashssv.pdf",
+        "annie-spratt-6a3nqQ1YwBw-unsplashvgaz.pdf",
+        "annie-spratt-6a3nqQ1YwBw-unsplashx.pdf",
+        "annie-spratt-6a3nqQ1YwBw-unsplashzx.pdf",
+        "annie-spratt-6a3nqQ1YwBw-unsplashzz.pdf",
+        "emm.pdf",
+        "Untitled.pdf",
+        "Untitledd.pdf",
+        "Untitleddd.pdf"
+      ]
+    },
+    "RulebookPDFS/annie-spratt-6a3nqQ1YwBw-unsplash.pdf": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792049340603,
+      "mtime": 1792049342336
+    },
+    "RulebookPDFS/annie-spratt-6a3nqQ1YwBw-unsplashgrt.pdf": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792533266727,
+      "mtime": 1792533267284
+    },
+    "RulebookPDFS/annie-spratt-6a3nqQ1YwBw-unsplashh.pdf": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792049704133,
+      "mtime": 1792049704580
+    },
+    "RulebookPDFS/annie-spratt-6a3nqQ1YwBw-unsplashhh.pdf": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792049763118,
+      "mtime": 1792049763548
+    },
+    "RulebookPDFS/annie-spratt-6a3nqQ1YwBw-unsplashhhh.pdf": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792276777416,
+      "mtime": 1792276778841
+    },
+    "RulebookPDFS/annie-spratt-6a3nqQ1YwBw-unsplashs.pdf": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792276807564,
+      "mtime": 1792276808005
+    },
+    "RulebookPDFS/annie-spratt-6a3nqQ1YwBw-unsplashssv.pdf": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792497281638,
+      "mtime": 1792497282006
+    },
+    "RulebookPDFS/annie-spratt-6a3nqQ1YwBw-unsplashss.pdf": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792276826422,
+      "mtime": 1792276826846
+    },
+    "RulebookPDFS/annie-spratt-6a3nqQ1YwBw-unsplashx.pdf": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792364089785,
+      "mtime": 1792364091040
+    },
+    "RulebookPDFS/annie-spratt-6a3nqQ1YwBw-unsplashzx.pdf": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792497246496,
+      "mtime": 1792497248106
+    },
+    "RulebookPDFS/annie-spratt-6a3nqQ1YwBw-unsplashvgaz.pdf": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792497305175,
+      "mtime": 1792497305540
+    },
+    "RulebookPDFS/annie-spratt-6a3nqQ1YwBw-unsplashzz.pdf": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792364180925,
+      "mtime": 1792364181328
+    },
+    "RulebookPDFS/emm.pdf": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792533028738,
+      "mtime": 1792533030472
+    },
+    "RulebookPDFS/Untitled.pdf": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792364061138,
+      "mtime": 1792364062685
+    },
+    "RulebookPDFS/Untitledd.pdf": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792364164742,
+      "mtime": 1792364165127
+    },
+    "RulebookPDFS/Untitleddd.pdf": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792533202256,
+      "mtime": 1792533202774
+    },
+    "Untitled 1.base": {
+      "isPinned": false,
+      "isHidden": true,
+      "ctime": 1782080484562,
+      "mtime": 1782080486049
+    },
+    "Untitled 2.base": {
+      "isPinned": false,
+      "isHidden": true,
+      "ctime": 1794083036897,
+      "mtime": 1794083038116
+    },
+    "Untitled 3.base": {
+      "isPinned": false,
+      "isHidden": true,
+      "ctime": 1794083038109,
+      "mtime": 1794083042487
+    },
+    "Untitled.base": {
+      "isPinned": false,
+      "isHidden": true,
+      "ctime": 1782080483810,
+      "mtime": 1782080484573
+    },
+    "VİDEOLAR": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Fikir Kutusu.md",
+        "Geçmiş Projeler.md",
+        "Notlar.md",
+        "ÜRETİLMEKTE OLANLAR.md"
+      ]
+    },
+    "VİDEOLAR/Fikir Kutusu.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773356883348,
+      "mtime": 1793564385820
+    },
+    "VİDEOLAR/Geçmiş Projeler.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773708652330,
+      "mtime": 1773708668058
+    },
+    "VİDEOLAR/Notlar.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773708809899,
+      "mtime": 1773709736976
+    },
+    "VİDEOLAR/ÜRETİLMEKTE OLANLAR.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773708652330,
+      "mtime": 1773708652330
+    },
+    "Şablonlar": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Karakter.md",
+        "Mekan.md",
+        "Oyun Tasarım Dokümanı.md",
+        "Session Notu.md",
+        "Taraf.md"
+      ]
+    },
+    "Şablonlar/Karakter.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792545215135,
+      "mtime": 1792545215135
+    },
+    "Şablonlar/Mekan.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792545205983,
+      "mtime": 1792545205983
+    },
+    "Şablonlar/Oyun Tasarım Dokümanı.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792545206230,
+      "mtime": 1792545206230
+    },
+    "Şablonlar/Session Notu.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792545214998,
+      "mtime": 1792545214998
+    },
+    "Şablonlar/Taraf.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1792545206112,
+      "mtime": 1792545206113
+    },
+    "Whairion - Zihin Zinciri": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "2026.md"
+      ],
+      "sortOrder": "custom",
+      "ctime": 1794088416811,
+      "mtime": 1794088416811
+    },
+    "Whairion - Zihin Zinciri/2026.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773710409967,
+      "mtime": 1786311014249
+    }
+  },
+  "showHidden": false,
+  "hidePatterns": [],
+  "newItemPlacement": "top",
+  "copyPlacement": "above",
+  "persistOrderOnCreateDelete": true,
+  "debugMode": false
+}
