@@ -29,4 +29,5 @@ yazar: claude
 > | 20 | Slay The Spire | Evet | 15 |  | ❌ |  |  |
 > | 21 | Nier Automata | Evet | 12 | 15| ✅ | 6 | 7 |
 > | 22 | Dark Souls | Evet | 50 | - | ❌ | - | - |
-> |  | **TOPLAM** |  | **295** | **185** | **2** | **8** | **7** |
+> | 23 | Wither : Thronebreaker | Evet | 32 | - | ❌ | - | - |
+> |  | **TOPLAM** |  | **295** | **185** | **2** | **8** | **7** 

@@ -8,6 +8,8 @@ Van’Asen yolculuğu Ayazan adındaki dağlık bir memlekette başladı. Rüzg�
 
 (mişten du ya geçiceksin zaman kipi) Beklenen gün ise yaşbaharların açışına denk gelmiş. Bir bayram sabahına uyanan Ferya Hanım’ın günü, öğlen vakti başlayan erken ve beklenmedik doğumla ızdıraplı bir yaşam mücadelesine dönüşmüş. Sancılı doğumu gün boyu sürmüş. Yaşbahar hasadından dönen köylülerin toyuk ateşi etrafında söyledikleri şarkıları odasının penceresinden işitiyormuş. Kadın resmen canını teslim ediyormuş çünkü bu ilk gebeliğiymiş. Kanama arttıkça kadının çığlıkları başında bekleyen kocasının dualarını bastırır olmuş. Eşi başında dualar ediyor, ebeler onu hayata tutundurmak için bildikleri tüm kocakarı yöntemlerini kullanıyorlardı. Ancak çok kan dökülmüş, tiz çığlıklar cansız debelenmelere, nihayetinde tamamen bir bilinçsizliğe düşmüştü. Ebeler annenin sağ çıkamayacağını anlayınca yalnız bebeği kurtarmaya uğraşmışlar. Kadının vücudu bembeyaz kesilip ruhu söndü. Neticede bir yaşamın doğması için, bir diğerinin yutulması gerekiyordu.
 
+((Doğumun ardından bebeğin yarı ölü doğduğu ve hayata güçbela tutunduğundan bahset. Birkaç haftayaysa sağlığı yerine oturur.))
+
 Bebek nihayet ellerine geldiğinde akşam çöküyormuş. Bebeği ayağından sallayıp kundağa sarmış ve babasının kollarına vermişler. Alaz Bey hala ıslak kızını kucağında tutarken sevinememiş. Ferya Hanım kan ve terden sırılsıklam olmuş şiltelerin üzerinde can çekişiyormuş. Tüm döktüğü kanlara rağmen son nefesine inatla tutunmuş. Bayılıp kendinden geçmiş, kaybettiği candan ötürü teni solmuş, soğumuş ancak kalbi durmayı reddetmiş. Direncine ithafen, yaşbaharın mucizesi kendini takdim etmiş.
 
 (Kadının kuru ve cansız bedeninden bahset, o kanlı görüntüden, ardından yaşbahar harketsiz dudaklarından dökülünce tüm vücudunun ve damarlarının ateş gibi parladığından ve buhar tüttürdüğünden bahset. Kadın onca kan kaybına rağmen yataktan fırlayıp kendini dışarı atıyor ve yüzüne kar çarpmaya başlıyor.)
@@ -674,6 +676,10 @@ Abalı Ana’nın tedavileri ızdırap verici, ancak etkiliydi. Sırtını diki�
 
 Haftalar geçti. Artık bütün gözler Ferya Hanım'ın karnındaydı.
 
+((Asena merdivenlerde otururken bir an ayaklarının altından halı çekiliyormuş gibi hisseder ve yere düşer. O an derin bir nefes sesi duyar, ancak bir nefes veriş değil, bir nefes alış sesidir bu. Gönlü sızlar ve içindeki düğüm bir anda eriyip yok olur.  
+  
+Az sonra ebeler çıkar falan filan (abalı ana garipliği fark eder, ancak der ki çocuk fazla ışıldadı ve nihayet yangına dönüştü, çok güçlü bir ruh, kendini bir arada tutamayarak parçalanır)))
+
 Beklenen doğum bir öğlen vakti başladı. Abalı Ana ve ebeleri yatak odasında kadının başına toplanmıştı. Tütsülerini yakıp, efsunlu şarkılarını söyleyerek kadına iksirler içirdiler. Doğumun çok daha gürültülü olmasını bekliyordu. Acı çığlıklar ve ızdıraplı tepinmeler... ancak Ferya Hanım rahatsızca inildemekle yetindi. Asena oturma odasındaki minderlere kıvrılmış, cenin olmuştu. Karnını tutuyordu. Anası inledikçe göbek kordonundan çekiştiriliyormuş gibi canı yanıyordu. Sanki doğacak bebek Asena’nın içinde bir düğüm olup kalmıştı. Kız büzüştükçe büzüştü. Kendini dışarı atmak, evden uzaklaşmak istiyordu ancak Alaz Bey koruda olduğundan anasını yalnız bırakmaya gönlü el vermedi. Dişlerini sıktı. Canından resmen can kopuyordu. Kardeşini görebiliyordu sanki. Alın yazısında belirtildiği gibi, endamlı, dik başlı, ak bir atın sırtında güçlü bir adam... sonra acı yavaşça dindi. Düğüm çözüldü. Yatak odasındaki inlemeler kesildi. Aradan biraz vakit geçti. Ebeler bileklerine kadar kana bulanmış şekilde dışarı çıkıp ellerini yıkadılar. Biri kanla kaplanmış örtüleri bir sepete doldurmuş, yıkamak için göle götürüyordu. En son Abalı Ana çıktı. Elinde bir kundak vardı. Bebek, komşu Zelin Teyze’nin örüp hediye ettiği Penüken Ata desenli kundağa sarınmıştı. Asena ayağa fırladı. “Kardeşim! Görebilir miyim?” diye yanına vardı. Kulaktan kulağa sırıtıyordu. Ellerini sımsıkı yumtuklar halinde yanaklarına bastırıyordu. Ancak Abalı Ana’nın ak gözleri kederliydi. Boş bakışları kıza dikildi. Dudakları oynadı. Ancak dökülen kelimeleri Asena’nın idrak etmesi vakit aldı. “Korkarım kardeşini kaybettik.” demişti ihtiyar. “Başın sağ olsun.”
 
 Asan ölü doğmuştu. Yazgısı daha başlamadan bitmişti.
@@ -698,7 +704,7 @@ Asena bir bir göz yaşı döküyordu. “Canı yanıyor mu?” diye sordu.
 
  “Babam iyi midir peki? O dağdaydı.”
 
-“Alaz’ın ateşi engindir. Onu çarpacağını sanmam. Çocuğunki de öyleydi.”
+“Alaz’ın ateşi gürdür. Onu çarpacağını sanmam. Çocuğunki de öyleydi.”
 
  “Yapabileceğimiz bir şey olmalı. Yaşbahardan başka bir şifa yok mudur? Bir ayin, başka bir çiçek... sihirli sözler bilmiyor musun?”
 

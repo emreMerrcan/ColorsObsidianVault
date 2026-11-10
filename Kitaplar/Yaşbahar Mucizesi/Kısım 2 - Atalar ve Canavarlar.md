@@ -1332,6 +1332,10 @@ Elini göğsüne koydu. Kalbi şiddetle çarpıyordu. İçindeki öfke son derec
 
 ***
 
+((Yaşlı adamıın oğlu üzerine kehanette söyleniyor "He would carry the fate to its final course and he would shake the world as is, bringing a new age of plenty." ve adam onun için servetini döküyor, ruhban getirtiyor ve at alıyor ve ayazeve ağaç diktiriyor falan. Çocuk doğumda ölürken bir nefes sesi duyduğundan bahsediyor. Bebek değil, tümüyle kararmış bir et parçası doğduğunu söylüyor.  
+  
+Yeni doğmuş ata da oğlanın adıyla sesleniyorlar ve adam doğmamış yiğidinin tek mirası gibi görüyor atı (bilmiyor ki kaderini ağaca değil bilmeden bir ata bağladın amına koyim ve ruhu içerde yaşıyor birnevi)))
+
 Asena istikametine giden ilk kervana atladı ve ödemesini yapıp kutsal şehre veda etti. Yol Esen Deniz’in kıyılarını takip ederek doğuya ilerledi. Kahr-ı Amade’lerin sınırına dayandığına göre, daha güneye inemezdi zaten.
 
 İki köyde ikişer gece geçirdi. Artık şehirler bitip dağlık hayvancı köyleri kaldığından, sonraki durağına giden bir kervan bulamadı. Kimsenin o yönde bir alacağı satacağı yoktu herhalde. O yüzden kalan harçlığıyla kendine bir binek almaya karar verdi. Köyde gezdi. Elalemin ahırlarının camlarına yapıştı ve güzel bir at aradı. Çünkü onun köyünde, yamaçları atlar tırmanamadığından hep keçi ya da kamgırlara binilirdi. Asena yol boyu gördüğü, ömür boyu hikayelerde işittiği atlardan birine binmek istiyordu.

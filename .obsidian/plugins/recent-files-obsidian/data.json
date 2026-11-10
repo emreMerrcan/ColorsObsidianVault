@@ -1,6 +1,110 @@
 {
   "recentFiles": [
     {
+      "basename": "Kısım 4 - Kaçak Kahraman",
+      "path": "Kitaplar/Yaşbahar Mucizesi/Kısım 4 - Kaçak Kahraman.md"
+    },
+    {
+      "basename": "Asena Kitap Notları",
+      "path": "Kitaplar/Yaşbahar Mucizesi/Asena Kitap Notları.md"
+    },
+    {
+      "basename": "Kısım 3 - Şergüzeli Tohumları",
+      "path": "Kitaplar/Yaşbahar Mucizesi/Kısım 3 - Şergüzeli Tohumları.md"
+    },
+    {
+      "basename": "Kısım 2 - Atalar ve Canavarlar",
+      "path": "Kitaplar/Yaşbahar Mucizesi/Kısım 2 - Atalar ve Canavarlar.md"
+    },
+    {
+      "basename": "Kısım 1 - Yaşbahar Mucizesi",
+      "path": "Kitaplar/Yaşbahar Mucizesi/Kısım 1 - Yaşbahar Mucizesi.md"
+    },
+    {
+      "basename": "Fikir Kutusu",
+      "path": "VİDEOLAR/Fikir Kutusu.md"
+    },
+    {
+      "basename": "Geçmiş Projeler",
+      "path": "VİDEOLAR/Geçmiş Projeler.md"
+    },
+    {
+      "basename": "ÜRETİLMEKTE OLANLAR",
+      "path": "VİDEOLAR/ÜRETİLMEKTE OLANLAR.md"
+    },
+    {
+      "basename": "Notlar",
+      "path": "VİDEOLAR/Notlar.md"
+    },
+    {
+      "basename": "Session Notu",
+      "path": "NOTLAR/Şablonlar/Session Notu.md"
+    },
+    {
+      "basename": "Oyun Tasarım Dokümanı",
+      "path": "NOTLAR/Şablonlar/Oyun Tasarım Dokümanı.md"
+    },
+    {
+      "basename": "Mekan",
+      "path": "NOTLAR/Şablonlar/Mekan.md"
+    },
+    {
+      "basename": "Karakter",
+      "path": "NOTLAR/Şablonlar/Karakter.md"
+    },
+    {
+      "basename": "CLAUDE",
+      "path": "NOTLAR/AI/CLAUDE.md"
+    },
+    {
+      "basename": "Blender",
+      "path": "NOTLAR/Blender.md"
+    },
+    {
+      "basename": "How to Obsidian",
+      "path": "NOTLAR/How to Obsidian.md"
+    },
+    {
+      "basename": "Oyun Magazini",
+      "path": "NOTLAR/Oyun Magazini.md"
+    },
+    {
+      "basename": "Video",
+      "path": "Kitaplar/Kısa Hikayeler/Babel Rebuilt/Video.md"
+    },
+    {
+      "basename": "Notlar",
+      "path": "Kitaplar/Kısa Hikayeler/Babel Rebuilt/Notlar.md"
+    },
+    {
+      "basename": "Emirlerin Sözcüsü",
+      "path": "Kitaplar/Kısa Hikayeler/Emirlerin Sözcüsü.md"
+    },
+    {
+      "basename": "Temalar",
+      "path": "Fabulous/Temalar.md"
+    },
+    {
+      "basename": "Taslaklar Deposu",
+      "path": "Kitaplar/Yaşbahar Mucizesi/Taslaklar Deposu.md"
+    },
+    {
+      "basename": "Notlar",
+      "path": "Kitaplar/Renksiz/Notlar.md"
+    },
+    {
+      "basename": "Notlar",
+      "path": "Kitaplar/Portre/Notlar.md"
+    },
+    {
+      "basename": "Notlar",
+      "path": "Kitaplar/Kısa Hikayeler/Okyanusa Gömülen Cennet/Notlar.md"
+    },
+    {
+      "basename": "Hikaye",
+      "path": "Kitaplar/Kısa Hikayeler/Okyanusa Gömülen Cennet/Hikaye.md"
+    },
+    {
       "basename": "Sonraki Session Notları",
       "path": "FRP - TTRPG/Emenos'un Gölgeli Sokakları/Sonraki Session Notları.md"
     },
@@ -33,10 +137,6 @@
       "path": "Untitled 3.base"
     },
     {
-      "basename": "Oyun Magazini",
-      "path": "NOTLAR/Oyun Magazini.md"
-    },
-    {
       "basename": "Emenos RPG",
       "path": "OYUNLAR/Emenos RPG.md"
     },
@@ -61,10 +161,6 @@
       "path": "DONE & GONE/BİTİRME PROJESİ/Notlar.md"
     },
     {
-      "basename": "Blender",
-      "path": "NOTLAR/Blender.md"
-    },
-    {
       "basename": "annie-spratt-6a3nqQ1YwBw-unsplashs",
       "path": "RulebookPDFS/annie-spratt-6a3nqQ1YwBw-unsplashs.pdf"
     },
@@ -85,40 +181,12 @@
       "path": "Untitled 2.base"
     },
     {
-      "basename": "How to Obsidian",
-      "path": "NOTLAR/How to Obsidian.md"
-    },
-    {
       "basename": "NAXAL CANVAS",
       "path": "FRP - TTRPG/Naxal ve Düşünce İğnesi/NAXAL CANVAS.canvas"
     },
     {
       "basename": "Taraf",
-      "path": "Şablonlar/Taraf.md"
-    },
-    {
-      "basename": "Session Notu",
-      "path": "Şablonlar/Session Notu.md"
-    },
-    {
-      "basename": "Oyun Tasarım Dokümanı",
-      "path": "Şablonlar/Oyun Tasarım Dokümanı.md"
-    },
-    {
-      "basename": "Mekan",
-      "path": "Şablonlar/Mekan.md"
-    },
-    {
-      "basename": "Karakter",
-      "path": "Şablonlar/Karakter.md"
-    },
-    {
-      "basename": "ÜRETİLMEKTE OLANLAR",
-      "path": "VİDEOLAR/ÜRETİLMEKTE OLANLAR.md"
-    },
-    {
-      "basename": "Taslaklar Deposu",
-      "path": "Kitaplar/Yaşbahar Mucizesi/Taslaklar Deposu.md"
+      "path": "NOTLAR/Şablonlar/Taraf.md"
     },
     {
       "basename": "Beseloth'un Çağı",

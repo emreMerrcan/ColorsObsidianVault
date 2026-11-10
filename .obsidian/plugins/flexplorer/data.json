@@ -15,7 +15,6 @@
         "NOTLAR",
         "PXZ'S",
         "RulebookPDFS",
-        "Şablonlar",
         "MEDENİYETLER (derlenecek ve geçirilecek).pdf",
         "Untitled.base",
         "Untitled 1.base",
@@ -1154,7 +1153,7 @@
       "isPinned": false,
       "isHidden": false,
       "ctime": 1776434134030,
-      "mtime": 1776434140181
+      "mtime": 1794145371426
     },
     "FRP - TTRPG": {
       "isPinned": false,
@@ -1935,7 +1934,10 @@
       "sortOrder": "custom",
       "customOrder": [
         "Kısa Hikayeler",
-        "Yaşbahar Mucizesi"
+        "Yaşbahar Mucizesi",
+        "Portre",
+        "Renksiz",
+        "Shattering"
       ]
     },
     "Kitaplar/Kısa Hikayeler": {
@@ -1943,6 +1945,9 @@
       "isHidden": false,
       "sortOrder": "custom",
       "customOrder": [
+        "Babel Rebuilt",
+        "Emirlerin Sözcüsü.md",
+        "Okyanusa Gömülen Cennet",
         "Gözü Bürümüş.md"
       ]
     },
@@ -1974,7 +1979,7 @@
       "isPinned": false,
       "isHidden": false,
       "ctime": 1774708470082,
-      "mtime": 1777036148441
+      "mtime": 1794145261775
     },
     "Kitaplar/Yaşbahar Mucizesi/Kapak, Arka Kapak ve Ön söz.md": {
       "isPinned": false,
@@ -1986,13 +1991,13 @@
       "isPinned": false,
       "isHidden": false,
       "ctime": 1793459661036,
-      "mtime": 1793460589529
+      "mtime": 1794145151611
     },
     "Kitaplar/Yaşbahar Mucizesi/Kısım 2 - Atalar ve Canavarlar.md": {
       "isPinned": false,
       "isHidden": false,
       "ctime": 1793459661036,
-      "mtime": 1793460028216
+      "mtime": 1794145210506
     },
     "Kitaplar/Yaşbahar Mucizesi/Kısım 3 - Şergüzeli Tohumları.md": {
       "isPinned": false,
@@ -2004,7 +2009,7 @@
       "isPinned": false,
       "isHidden": false,
       "ctime": 1793459661036,
-      "mtime": 1794063052959
+      "mtime": 1794167901911
     },
     "Kitaplar/Yaşbahar Mucizesi/Kısım 5 - Bağlar Kökü.md": {
       "isPinned": false,
@@ -2028,7 +2033,7 @@
       "isPinned": false,
       "isHidden": false,
       "ctime": 1793459661036,
-      "mtime": 1793541677352
+      "mtime": 1794145271546
     },
     "Kitaplar/Yaşbahar Mucizesi/Kısım 8 - Kayıp Yarınlar.md": {
       "isPinned": false,
@@ -2047,6 +2052,7 @@
       "isHidden": false,
       "sortOrder": "custom",
       "customOrder": [
+        "Şablonlar",
         "AI",
         "Blender.md",
         "How to Obsidian.md",
@@ -2083,7 +2089,7 @@
       "isPinned": false,
       "isHidden": false,
       "ctime": 1794084316166,
-      "mtime": 1794086130575
+      "mtime": 1794172871239
     },
     "OYUNLAR": {
       "isPinned": false,
@@ -2643,7 +2649,134 @@
       "ctime": 1773708652330,
       "mtime": 1773708652330
     },
-    "Şablonlar": {
+    "Whairion - Zihin Zinciri": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "2026.md"
+      ],
+      "ctime": 1794088416811,
+      "mtime": 1794088416811
+    },
+    "Whairion - Zihin Zinciri/2026.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1773710409967,
+      "mtime": 1786311014249
+    },
+    "Kitaplar/Kısa Hikayeler/Okyanusa Gömülen Cennet": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Notlar.md",
+        "Hikaye.md"
+      ],
+      "ctime": 1794144263128,
+      "mtime": 1794144263128
+    },
+    "Kitaplar/Kısa Hikayeler/Okyanusa Gömülen Cennet/Hikaye.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794144219915,
+      "mtime": 1794144313583
+    },
+    "Kitaplar/Kısa Hikayeler/Okyanusa Gömülen Cennet/Notlar.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794144306131,
+      "mtime": 1794144394654
+    },
+    "Kitaplar/Kısa Hikayeler/Emirlerin Sözcüsü.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794144406773,
+      "mtime": 1794144427100
+    },
+    "Kitaplar/Renksiz": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Notlar.md"
+      ],
+      "ctime": 1794144441629,
+      "mtime": 1794144441629
+    },
+    "Kitaplar/Portre": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Notlar.md"
+      ],
+      "ctime": 1794144445870,
+      "mtime": 1794144445870
+    },
+    "Kitaplar/Shattering": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "A",
+        "B"
+      ],
+      "ctime": 1794144612328,
+      "mtime": 1794144612328
+    },
+    "Kitaplar/Shattering/A": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [],
+      "ctime": 1794144623406,
+      "mtime": 1794144623406
+    },
+    "Kitaplar/Shattering/B": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [],
+      "ctime": 1794144628722,
+      "mtime": 1794144628722
+    },
+    "Kitaplar/Portre/Notlar.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794144903770,
+      "mtime": 1794144912871
+    },
+    "Kitaplar/Renksiz/Notlar.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794144923350,
+      "mtime": 1794144930549
+    },
+    "Kitaplar/Kısa Hikayeler/Babel Rebuilt": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Notlar.md",
+        "Video.md"
+      ],
+      "ctime": 1794151089718,
+      "mtime": 1794151089718
+    },
+    "Kitaplar/Kısa Hikayeler/Babel Rebuilt/Video.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794151150768,
+      "mtime": 1794151150768
+    },
+    "Kitaplar/Kısa Hikayeler/Babel Rebuilt/Notlar.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794151162821,
+      "mtime": 1794151162821
+    },
+    "NOTLAR/Şablonlar": {
       "isPinned": false,
       "isHidden": false,
       "sortOrder": "custom",
@@ -2655,51 +2788,35 @@
         "Taraf.md"
       ]
     },
-    "Şablonlar/Karakter.md": {
+    "NOTLAR/Şablonlar/Karakter.md": {
       "isPinned": false,
       "isHidden": false,
       "ctime": 1792545215135,
       "mtime": 1792545215135
     },
-    "Şablonlar/Mekan.md": {
-      "isPinned": false,
-      "isHidden": false,
-      "ctime": 1792545205983,
-      "mtime": 1792545205983
-    },
-    "Şablonlar/Oyun Tasarım Dokümanı.md": {
+    "NOTLAR/Şablonlar/Oyun Tasarım Dokümanı.md": {
       "isPinned": false,
       "isHidden": false,
       "ctime": 1792545206230,
       "mtime": 1792545206230
     },
-    "Şablonlar/Session Notu.md": {
-      "isPinned": false,
-      "isHidden": false,
-      "ctime": 1792545214998,
-      "mtime": 1792545214998
-    },
-    "Şablonlar/Taraf.md": {
+    "NOTLAR/Şablonlar/Taraf.md": {
       "isPinned": false,
       "isHidden": false,
       "ctime": 1792545206112,
       "mtime": 1792545206113
     },
-    "Whairion - Zihin Zinciri": {
+    "NOTLAR/Şablonlar/Mekan.md": {
       "isPinned": false,
       "isHidden": false,
-      "customOrder": [
-        "2026.md"
-      ],
-      "sortOrder": "custom",
-      "ctime": 1794088416811,
-      "mtime": 1794088416811
+      "ctime": 1792545205983,
+      "mtime": 1792545205983
     },
-    "Whairion - Zihin Zinciri/2026.md": {
+    "NOTLAR/Şablonlar/Session Notu.md": {
       "isPinned": false,
       "isHidden": false,
-      "ctime": 1773710409967,
-      "mtime": 1786311014249
+      "ctime": 1792545214998,
+      "mtime": 1792545214998
     }
   },
   "showHidden": false,

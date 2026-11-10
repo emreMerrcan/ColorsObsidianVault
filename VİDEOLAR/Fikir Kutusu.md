@@ -1,7 +1,10 @@
 # Sesli Hikayeler
 
 - [ ] Tanrıyı okyanusun dibine gömüp süper bilgisayar yaptığımız rüya, ayrıca video fikri
-- [ ] Babilin inşası: Analog horror   
+- [ ] Babilin inşası: Analog horror
+- [ ] Asena'ya ormanda yapılan saldırı
+- [ ] Asena'nın şelale altından itibaren bir günü
+- [ ] Asena ve Issız Köy hikayesi (5 part hikaye)
 # Diğerleri
 - Din doğru yaşanmıyor videosu
 - Rüyalarımdaki işaretler ve irade videosu

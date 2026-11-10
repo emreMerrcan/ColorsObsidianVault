@@ -1,3 +1,10 @@
+
+İnsanlık özünde itaatkardı. Onlara kudretli bir kimse emir verirse, onu ikiletmeden uymayı tercih ederler. Ancak aralarından bazıları çıkar ki, onlar hiçbir kudrete boyun eğmezler.
+
+
+
+
+
 “”
 
 “”

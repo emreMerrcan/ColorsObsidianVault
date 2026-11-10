@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiHourglass",
-      "LiAsterisk",
-      "LiTrash",
-      "LiActivity",
-      "LiAstroid"
+      "LiCircleDot",
+      "LiInfinity",
+      "LiArchive",
+      "LiUsers2",
+      "LiStars"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -47,8 +47,8 @@
     "iconColor": "#ffffff"
   },
   "FRP - TTRPG": {
-    "iconName": "LiAstroid",
-    "iconColor": "#24b6ff"
+    "iconName": "LiArchive",
+    "iconColor": "#52ff54"
   },
   "Fabulous": {
     "iconName": "LiActivity",
@@ -64,6 +64,31 @@
   },
   "Whairion - Zihin Zinciri": {
     "iconName": "LiHourglass",
+    "iconColor": "#ffffff"
+  },
+  "Kitaplar/Yaşbahar Mucizesi": {
+    "iconName": "LiFlower2",
+    "iconColor": "#4dc3ff"
+  },
+  "Kitaplar/Kısa Hikayeler": "📚",
+  "Kitaplar/Renksiz": {
+    "iconName": "LiUsers2",
+    "iconColor": "#ffffff"
+  },
+  "Kitaplar/Portre": {
+    "iconName": "LiImage",
+    "iconColor": "#ffe14d"
+  },
+  "Kitaplar/Shattering": {
+    "iconName": "LiStars",
+    "iconColor": "#ff4d9a"
+  },
+  "Kitaplar/Shattering/A": {
+    "iconName": "LiInfinity",
+    "iconColor": "#ff4df0"
+  },
+  "Kitaplar/Shattering/B": {
+    "iconName": "LiCircleDot",
     "iconColor": "#ffffff"
   }
 }

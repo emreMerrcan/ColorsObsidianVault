@@ -1,3 +1,6 @@
+This all happened before, and will happen again. The problems face do happen in a recurring cycle. Yesterdays battles are tomorrows battles. Even tho we change, as long as the core of our being presists, the world will come to the same conclusions about us. And the fates, will test us accordingly.
+
+
 Fabulous Ideas
 Muhtesem Hukumranliklar
 Muhtesem Zanaatlar
