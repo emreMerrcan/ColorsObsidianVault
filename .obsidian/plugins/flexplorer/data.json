@@ -28,6 +28,33 @@
       "isHidden": true,
       "sortOrder": "custom",
       "customOrder": [
+        "249409789-256-k250518.jpg",
+        "207755291-256-k528641.jpg",
+        "277914768-176-k610281.jpg",
+        "14f512efa0ede0b3603324971175.jpg",
+        "14f480a84952539b608562446587.jpg",
+        "157ee6627d742394587444608527.jpg",
+        "95174059-256-k428879.jpg",
+        "249648075-176-k507260.jpg",
+        "218298446-256-k212770.jpg",
+        "15e0e209da4b16d0273916052068.jpg",
+        "208403422-176-k330868.jpg",
+        "207696637-256-k446086.jpg",
+        "14c17219fc384031281369360865.jpg",
+        "14c1ebbff5d6b7a0897316041895.jpg",
+        "127079750-256-k234642.jpg",
+        "165aa95365bfa9b728635757377.jpg",
+        "164fa357c1848acf645979863631.jpg",
+        "687474703a2f2f77616c6c7061706572636176652e636f6d2f77702f73346a575544382e6a7067.jpg",
+        "156c05ba5deb8cf6515798786514.jpg",
+        "156c0568af87ca67216108147890.gif",
+        "15673bc4b46e7082790353868473.jpg",
+        "156705cc51ae70f7500198658513.jpg",
+        "14a7c0029743f1a4220758643244.jpg",
+        "14a7260b4035b65a395899334877.gif",
+        "15e360d7e4e9619f336578132858.jpg",
+        "68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f5658617979576769434f685274773d3d2d3239333738373536392e3135613736313233326262393536333832353832323930.jpg",
+        "15a7607035da668a30053299974.jpg",
         "0a318a47d0ad31af6599cbe560c4603f.jpg",
         "0b37ddff9ed6d111ee6e64d194c2a5d7.jpg",
         "0b473ffacc8c945e43d486080811828d.jpg",
@@ -1937,7 +1964,9 @@
         "Yaşbahar Mucizesi",
         "Portre",
         "Renksiz",
-        "Shattering"
+        "Xetra",
+        "Shattering",
+        "Çekirdek"
       ]
     },
     "Kitaplar/Kısa Hikayeler": {
@@ -1945,6 +1974,8 @@
       "isHidden": false,
       "sortOrder": "custom",
       "customOrder": [
+        "Eski Arşiv",
+        "Semavi Kumandan Luis.md",
         "Babel Rebuilt",
         "Emirlerin Sözcüsü.md",
         "Okyanusa Gömülen Cennet",
@@ -1962,6 +1993,7 @@
       "isHidden": false,
       "sortOrder": "custom",
       "customOrder": [
+        "Arşiv",
         "Asena Kitap Notları.md",
         "Kapak, Arka Kapak ve Ön söz.md",
         "Kısım 1 - Yaşbahar Mucizesi.md",
@@ -2699,6 +2731,7 @@
       "isHidden": false,
       "sortOrder": "custom",
       "customOrder": [
+        "Eski Arşiv",
         "Notlar.md"
       ],
       "ctime": 1794144441629,
@@ -2709,6 +2742,8 @@
       "isHidden": false,
       "sortOrder": "custom",
       "customOrder": [
+        "Wattpad Çıktısı",
+        "Tanrısız Cennetin Melekleri Eski Arşiv.md",
         "Notlar.md"
       ],
       "ctime": 1794144445870,
@@ -2817,6 +2852,851 @@
       "isHidden": false,
       "ctime": 1792545214998,
       "mtime": 1792545214998
+    },
+    "Kitaplar/Renksiz/Eski Arşiv": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "2. Taslak",
+        "3. Taslak",
+        "4. Taslak",
+        "Lise Dönemi Diğerleri"
+      ],
+      "sortOrder": "custom",
+      "ctime": 1794428480035,
+      "mtime": 1794428480035
+    },
+    "Kitaplar/Renksiz/Eski Arşiv/2. Taslak": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "2nd Edition.md",
+        "(eski) 0- Son.md",
+        "(eski) 8- Geçmiş (ve 7).md",
+        "(eski) 9- Yeşeren Ölüm.md",
+        "(eski) 10- Zayıf Işık.md",
+        "(eski)11-Çekim.md",
+        "(eski) 12- Boyalı Kar.md",
+        "(eski) 13- Serçe.md",
+        "(eski) 14,15- Takip, Acımasız.md",
+        "(eski) 16- Arife.md",
+        "(eski) 17- Diri.md",
+        "(eski) 18- Kelimeler.md",
+        "(eski) 19- Kayıp.md",
+        "(eski) 20- Yüce.md",
+        "(eski) 21- İhtihza.md",
+        "(eski) 22- Söyleniş.md",
+        "23- Devrim.md",
+        "24- Hyalina.md",
+        "26- Detay.md",
+        "24- Kontak.md",
+        "25- İğne İzi.md"
+      ],
+      "sortOrder": "custom",
+      "ctime": 1794428490726,
+      "mtime": 1794428490726
+    },
+    "Kitaplar/Renksiz/Eski Arşiv/3. Taslak": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "3th Edition.md"
+      ],
+      "sortOrder": "custom",
+      "ctime": 1794428502866,
+      "mtime": 1794428502866
+    },
+    "Kitaplar/Renksiz/Eski Arşiv/4. Taslak": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "0- An.md",
+        "1- Ziyaret.md",
+        "2- Tesadüfler.md",
+        "3- Gözler.md",
+        "4- Büyü.md",
+        "5- İzleme.md",
+        "6- Hikayeler.md",
+        "7- Zayıf Işık.md",
+        "8- Boyalı Kar.md",
+        "9- Acımasız.md",
+        "10- Diri.md",
+        "11 - Yüce.md",
+        "12- İstihza.md",
+        "13- Devrim.md"
+      ],
+      "sortOrder": "custom",
+      "ctime": 1794428518781,
+      "mtime": 1794428518781
+    },
+    "Kitaplar/Renksiz/Eski Arşiv/Lise Dönemi Diğerleri": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "Özel Diyaloglar.md",
+        "NICK'S STORY.md",
+        "ALTERNATE COLORLESS.md",
+        "D E P O.md",
+        "REWORK ARŞİVİ.md",
+        "REWORK ALANI.md"
+      ],
+      "sortOrder": "custom",
+      "ctime": 1794428529073,
+      "mtime": 1794428529073
+    },
+    "Kitaplar/Renksiz/Eski Arşiv/Lise Dönemi Diğerleri/REWORK ALANI.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794428575478,
+      "mtime": 1794428590160
+    },
+    "Kitaplar/Renksiz/Eski Arşiv/Lise Dönemi Diğerleri/REWORK ARŞİVİ.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794428619416,
+      "mtime": 1794428627366
+    },
+    "Kitaplar/Renksiz/Eski Arşiv/Lise Dönemi Diğerleri/D E P O.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794428660109,
+      "mtime": 1794428670708
+    },
+    "Kitaplar/Renksiz/Eski Arşiv/4. Taslak/0- An.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794428684813,
+      "mtime": 1794428694595
+    },
+    "Kitaplar/Renksiz/Eski Arşiv/4. Taslak/1- Ziyaret.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794428769437,
+      "mtime": 1794428778052
+    },
+    "Kitaplar/Renksiz/Eski Arşiv/4. Taslak/2- Tesadüfler.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794428791939,
+      "mtime": 1794428799631
+    },
+    "Kitaplar/Renksiz/Eski Arşiv/4. Taslak/3- Gözler.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794428832768,
+      "mtime": 1794428915918
+    },
+    "attachments/15a7607035da668a30053299974.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794428895794,
+      "mtime": 1794428895794
+    },
+    "attachments/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f5658617979576769434f685274773d3d2d3239333738373536392e3135613736313233326262393536333832353832323930.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794428915519,
+      "mtime": 1794428915519
+    },
+    "Kitaplar/Renksiz/Eski Arşiv/4. Taslak/4- Büyü.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794428943506,
+      "mtime": 1794428947904
+    },
+    "Kitaplar/Renksiz/Eski Arşiv/4. Taslak/5- İzleme.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794428965811,
+      "mtime": 1794429015878
+    },
+    "Kitaplar/Renksiz/Eski Arşiv/4. Taslak/6- Hikayeler.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794429024512,
+      "mtime": 1794429029799
+    },
+    "Kitaplar/Renksiz/Eski Arşiv/4. Taslak/7- Zayıf Işık.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794429041762,
+      "mtime": 1794429060601
+    },
+    "Kitaplar/Renksiz/Eski Arşiv/4. Taslak/8- Boyalı Kar.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794429083472,
+      "mtime": 1794429111007
+    },
+    "Kitaplar/Renksiz/Eski Arşiv/4. Taslak/9- Acımasız.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794429123196,
+      "mtime": 1794429134183
+    },
+    "attachments/15e360d7e4e9619f336578132858.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794429127634,
+      "mtime": 1794429127634
+    },
+    "Kitaplar/Renksiz/Eski Arşiv/4. Taslak/10- Diri.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794429150393,
+      "mtime": 1794429176355
+    },
+    "Kitaplar/Renksiz/Eski Arşiv/4. Taslak/11 - Yüce.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794429210881,
+      "mtime": 1794429218382
+    },
+    "Kitaplar/Renksiz/Eski Arşiv/4. Taslak/12- İstihza.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794429233002,
+      "mtime": 1794429237104
+    },
+    "Kitaplar/Renksiz/Eski Arşiv/4. Taslak/13- Devrim.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794429253714,
+      "mtime": 1794429259273
+    },
+    "Kitaplar/Renksiz/Eski Arşiv/2. Taslak/2nd Edition.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794429280502,
+      "mtime": 1794429289892
+    },
+    "Kitaplar/Renksiz/Eski Arşiv/3. Taslak/3th Edition.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794429334664,
+      "mtime": 1794429345168
+    },
+    "Kitaplar/Renksiz/Eski Arşiv/Lise Dönemi Diğerleri/ALTERNATE COLORLESS.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794429363629,
+      "mtime": 1794429368614
+    },
+    "Kitaplar/Renksiz/Eski Arşiv/Lise Dönemi Diğerleri/NICK'S STORY.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794429408296,
+      "mtime": 1794429412875
+    },
+    "Kitaplar/Renksiz/Eski Arşiv/2. Taslak/(eski) 0- Son.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794429457817,
+      "mtime": 1794429475784
+    },
+    "Kitaplar/Renksiz/Eski Arşiv/2. Taslak/(eski) 8- Geçmiş (ve 7).md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794429495837,
+      "mtime": 1794429516585
+    },
+    "attachments/14a7260b4035b65a395899334877.gif": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794429514569,
+      "mtime": 1794429514569
+    },
+    "Kitaplar/Renksiz/Eski Arşiv/2. Taslak/(eski) 9- Yeşeren Ölüm.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794429539144,
+      "mtime": 1794429581858
+    },
+    "attachments/14a7c0029743f1a4220758643244.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794429543328,
+      "mtime": 1794429543328
+    },
+    "Kitaplar/Renksiz/Eski Arşiv/2. Taslak/(eski) 10- Zayıf Işık.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794429606738,
+      "mtime": 1794429626385
+    },
+    "Kitaplar/Renksiz/Eski Arşiv/2. Taslak/(eski)11-Çekim.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794429635335,
+      "mtime": 1794429639741
+    },
+    "Kitaplar/Renksiz/Eski Arşiv/2. Taslak/(eski) 12- Boyalı Kar.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794429651973,
+      "mtime": 1794429670648
+    },
+    "Kitaplar/Renksiz/Eski Arşiv/2. Taslak/(eski) 13- Serçe.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794429773386,
+      "mtime": 1794429790316
+    },
+    "Kitaplar/Renksiz/Eski Arşiv/2. Taslak/(eski) 14,15- Takip, Acımasız.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794429801096,
+      "mtime": 1794429806058
+    },
+    "Kitaplar/Renksiz/Eski Arşiv/2. Taslak/(eski) 16- Arife.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794429816157,
+      "mtime": 1794429832428
+    },
+    "Kitaplar/Renksiz/Eski Arşiv/2. Taslak/(eski) 17- Diri.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794429844015,
+      "mtime": 1794429951879
+    },
+    "Kitaplar/Renksiz/Eski Arşiv/2. Taslak/(eski) 18- Kelimeler.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794429862339,
+      "mtime": 1794429866506
+    },
+    "Kitaplar/Renksiz/Eski Arşiv/2. Taslak/(eski) 19- Kayıp.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794429872083,
+      "mtime": 1794429875915
+    },
+    "Kitaplar/Renksiz/Eski Arşiv/2. Taslak/(eski) 20- Yüce.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794429881604,
+      "mtime": 1794429908410
+    },
+    "attachments/156705cc51ae70f7500198658513.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794429905561,
+      "mtime": 1794429905561
+    },
+    "attachments/15673bc4b46e7082790353868473.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794429948026,
+      "mtime": 1794429948026
+    },
+    "Kitaplar/Renksiz/Eski Arşiv/2. Taslak/(eski) 21- İhtihza.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794429959523,
+      "mtime": 1794429990700
+    },
+    "Kitaplar/Renksiz/Eski Arşiv/2. Taslak/(eski) 22- Söyleniş.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794430005860,
+      "mtime": 1794430025388
+    },
+    "Kitaplar/Renksiz/Eski Arşiv/2. Taslak/23- Devrim.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794430642867,
+      "mtime": 1794430670951
+    },
+    "Kitaplar/Renksiz/Eski Arşiv/2. Taslak/24- Hyalina.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794430678224,
+      "mtime": 1794430699517
+    },
+    "Kitaplar/Renksiz/Eski Arşiv/2. Taslak/26- Detay.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794430712072,
+      "mtime": 1794430763781
+    },
+    "Kitaplar/Renksiz/Eski Arşiv/2. Taslak/24- Kontak.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794430772505,
+      "mtime": 1794430791809
+    },
+    "attachments/156c0568af87ca67216108147890.gif": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794430790999,
+      "mtime": 1794430790999
+    },
+    "Kitaplar/Renksiz/Eski Arşiv/2. Taslak/25- İğne İzi.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794430862703,
+      "mtime": 1794430882002
+    },
+    "attachments/156c05ba5deb8cf6515798786514.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794430880834,
+      "mtime": 1794430880834
+    },
+    "attachments/687474703a2f2f77616c6c7061706572636176652e636f6d2f77702f73346a575544382e6a7067.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794430904419,
+      "mtime": 1794430904419
+    },
+    "Kitaplar/Renksiz/Eski Arşiv/Lise Dönemi Diğerleri/Özel Diyaloglar.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794430900546,
+      "mtime": 1794430912345
+    },
+    "Kitaplar/Kısa Hikayeler/Eski Arşiv": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "Kara Mesih.md",
+        "Shifting (Değişken).md",
+        "Adalet.md",
+        "TİTREYEN KALPLER.md",
+        "Mavi.md",
+        "Güller ve Günahlar.md",
+        "HIZ.md",
+        "Untitled 1",
+        "Untitled",
+        "Azaltılmış Gerçeklik.md",
+        "Kilisede bir Dua.md",
+        "Elruna'nın Aşkı.md",
+        "Les Showmans Perdus Du Royaume.md",
+        "Krallar Soytarıya Karşı.md",
+        "Yol Nereye Götürürse.md",
+        "Karışık Ariv.md",
+        "Alienation (Yabancılaşma).md",
+        "Simyacının Hayatı.md",
+        "Daimi Vahşet.md"
+      ],
+      "sortOrder": "custom",
+      "ctime": 1794431162081,
+      "mtime": 1794431162081
+    },
+    "Kitaplar/Kısa Hikayeler/Eski Arşiv/Daimi Vahşet.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794431172025,
+      "mtime": 1794431179367
+    },
+    "Kitaplar/Kısa Hikayeler/Eski Arşiv/Simyacının Hayatı.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794431180124,
+      "mtime": 1794431200392
+    },
+    "Kitaplar/Kısa Hikayeler/Eski Arşiv/Alienation (Yabancılaşma).md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794431205388,
+      "mtime": 1794431217945
+    },
+    "Kitaplar/Kısa Hikayeler/Eski Arşiv/Karışık Ariv.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794431229548,
+      "mtime": 1794431248254
+    },
+    "Kitaplar/Kısa Hikayeler/Eski Arşiv/Yol Nereye Götürürse.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794431285042,
+      "mtime": 1794431288227
+    },
+    "Kitaplar/Kısa Hikayeler/Eski Arşiv/Krallar Soytarıya Karşı.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794431296323,
+      "mtime": 1794431315950
+    },
+    "attachments/164fa357c1848acf645979863631.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794431313925,
+      "mtime": 1794431313925
+    },
+    "Kitaplar/Kısa Hikayeler/Eski Arşiv/Les Showmans Perdus Du Royaume.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794431322701,
+      "mtime": 1794431325829
+    },
+    "Kitaplar/Kısa Hikayeler/Eski Arşiv/Elruna'nın Aşkı.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794431333615,
+      "mtime": 1794431372609
+    },
+    "attachments/165aa95365bfa9b728635757377.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794431360402,
+      "mtime": 1794431360402
+    },
+    "Kitaplar/Kısa Hikayeler/Eski Arşiv/Kilisede bir Dua.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794431373376,
+      "mtime": 1794431377522
+    },
+    "Kitaplar/Kısa Hikayeler/Eski Arşiv/Azaltılmış Gerçeklik.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794431384737,
+      "mtime": 1794431387734
+    },
+    "Kitaplar/Kısa Hikayeler/Semavi Kumandan Luis.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794431407036,
+      "mtime": 1794431412698
+    },
+    "Kitaplar/Yaşbahar Mucizesi/Arşiv": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "2024 Temmuz hikaye planı.md"
+      ],
+      "sortOrder": "custom",
+      "ctime": 1794431575224,
+      "mtime": 1794431575224
+    },
+    "Kitaplar/Yaşbahar Mucizesi/Arşiv/2024 Temmuz hikaye planı.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794431579355,
+      "mtime": 1794431584816
+    },
+    "Kitaplar/Kısa Hikayeler/Eski Arşiv/Untitled": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [],
+      "sortOrder": "custom",
+      "ctime": 1794431665146,
+      "mtime": 1794431665146
+    },
+    "Kitaplar/Kısa Hikayeler/Eski Arşiv/Untitled 1": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [],
+      "sortOrder": "custom",
+      "ctime": 1794431688903,
+      "mtime": 1794431688903
+    },
+    "Kitaplar/Kısa Hikayeler/Eski Arşiv/HIZ.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794431694520,
+      "mtime": 1794431733093
+    },
+    "attachments/127079750-256-k234642.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794431731292,
+      "mtime": 1794431731292
+    },
+    "Kitaplar/Kısa Hikayeler/Eski Arşiv/Güller ve Günahlar.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794431798391,
+      "mtime": 1794431895503
+    },
+    "attachments/14c1ebbff5d6b7a0897316041895.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794431822068,
+      "mtime": 1794431822068
+    },
+    "attachments/14c17219fc384031281369360865.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794431840500,
+      "mtime": 1794431840500
+    },
+    "Kitaplar/Kısa Hikayeler/Eski Arşiv/Mavi.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794431915308,
+      "mtime": 1794431945546
+    },
+    "attachments/207696637-256-k446086.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794431919544,
+      "mtime": 1794431919544
+    },
+    "attachments/208403422-176-k330868.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794432000769,
+      "mtime": 1794432000769
+    },
+    "attachments/15e0e209da4b16d0273916052068.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794432070917,
+      "mtime": 1794432070917
+    },
+    "Kitaplar/Kısa Hikayeler/Eski Arşiv/TİTREYEN KALPLER.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794431982291,
+      "mtime": 1794432217996
+    },
+    "Kitaplar/Kısa Hikayeler/Eski Arşiv/Adalet.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794432238482,
+      "mtime": 1794432309969
+    },
+    "attachments/218298446-256-k212770.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794432309204,
+      "mtime": 1794432309204
+    },
+    "Kitaplar/Kısa Hikayeler/Eski Arşiv/Shifting (Değişken).md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794432311652,
+      "mtime": 1794432356347
+    },
+    "attachments/249648075-176-k507260.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794432331371,
+      "mtime": 1794432331371
+    },
+    "Kitaplar/Xetra": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "Eski Arşiv"
+      ],
+      "sortOrder": "custom",
+      "ctime": 1794432410862,
+      "mtime": 1794432410862
+    },
+    "Kitaplar/Xetra/Eski Arşiv": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "UYKU.md",
+        "0- Çirkin.md",
+        "1- Adalet Timsali.md",
+        "2- İki Parmağın Hikayesi.md",
+        "3- Göz Göze.md",
+        "24- Renklendirilmiş.md",
+        "4- Amaçlar Örgüsü.md",
+        "NOT.md"
+      ],
+      "sortOrder": "custom",
+      "ctime": 1794432532542,
+      "mtime": 1794432532542
+    },
+    "Kitaplar/Xetra/Eski Arşiv/UYKU.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794432537232,
+      "mtime": 1794432568715
+    },
+    "attachments/95174059-256-k428879.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794432566702,
+      "mtime": 1794432566702
+    },
+    "Kitaplar/Xetra/Eski Arşiv/0- Çirkin.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794432573637,
+      "mtime": 1794432608092
+    },
+    "attachments/157ee6627d742394587444608527.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794432606060,
+      "mtime": 1794432606060
+    },
+    "Kitaplar/Xetra/Eski Arşiv/1- Adalet Timsali.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794432617515,
+      "mtime": 1794432625355
+    },
+    "Kitaplar/Xetra/Eski Arşiv/2- İki Parmağın Hikayesi.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794432642000,
+      "mtime": 1794432647193
+    },
+    "Kitaplar/Xetra/Eski Arşiv/3- Göz Göze.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794432656703,
+      "mtime": 1794432660839
+    },
+    "Kitaplar/Xetra/Eski Arşiv/24- Renklendirilmiş.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794432670759,
+      "mtime": 1794432682625
+    },
+    "attachments/14f480a84952539b608562446587.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794432682250,
+      "mtime": 1794432682250
+    },
+    "Kitaplar/Xetra/Eski Arşiv/4- Amaçlar Örgüsü.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794432701884,
+      "mtime": 1794432717002
+    },
+    "attachments/14f512efa0ede0b3603324971175.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794432716841,
+      "mtime": 1794432716841
+    },
+    "Kitaplar/Xetra/Eski Arşiv/NOT.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794432722822,
+      "mtime": 1794432726911
+    },
+    "Kitaplar/Kısa Hikayeler/Eski Arşiv/Kara Mesih.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794432749207,
+      "mtime": 1794432840864
+    },
+    "attachments/277914768-176-k610281.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794432773612,
+      "mtime": 1794432773612
+    },
+    "Kitaplar/Çekirdek": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "Tanık"
+      ],
+      "sortOrder": "custom",
+      "ctime": 1794432869252,
+      "mtime": 1794432869252
+    },
+    "Kitaplar/Çekirdek/Tanık": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "Eski Arşiv.md"
+      ],
+      "sortOrder": "custom",
+      "ctime": 1794432919754,
+      "mtime": 1794432919754
+    },
+    "attachments/207755291-256-k528641.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794432956844,
+      "mtime": 1794432956844
+    },
+    "Kitaplar/Çekirdek/Tanık/Eski Arşiv.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794432930514,
+      "mtime": 1794432993638
+    },
+    "Kitaplar/Portre/Tanrısız Cennetin Melekleri Eski Arşiv.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794433063712,
+      "mtime": 1794433080435
+    },
+    "Kitaplar/Portre/Wattpad Çıktısı": {
+      "isPinned": false,
+      "isHidden": false,
+      "customOrder": [
+        "Portre Eski.md",
+        "1.md",
+        "2.md",
+        "Notlar.md",
+        "ŞEMA.md",
+        "- 1 -.md",
+        "- 7 -.md",
+        "- 1 deneysel -.md"
+      ],
+      "sortOrder": "custom",
+      "ctime": 1794433107930,
+      "mtime": 1794433107930
+    },
+    "Kitaplar/Portre/Wattpad Çıktısı/Portre Eski.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794433119938,
+      "mtime": 1794433139106
+    },
+    "attachments/249409789-256-k250518.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794433131835,
+      "mtime": 1794433131835
+    },
+    "Kitaplar/Portre/Wattpad Çıktısı/1.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794433141103,
+      "mtime": 1794433296632
+    },
+    "Kitaplar/Portre/Wattpad Çıktısı/2.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794433308349,
+      "mtime": 1794433423762
+    },
+    "Kitaplar/Portre/Wattpad Çıktısı/- 1 deneysel -.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794433472977,
+      "mtime": 1794433480620
+    },
+    "Kitaplar/Portre/Wattpad Çıktısı/- 7 -.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794433490660,
+      "mtime": 1794433496285
+    },
+    "Kitaplar/Portre/Wattpad Çıktısı/- 1 -.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794433501911,
+      "mtime": 1794433507884
+    },
+    "Kitaplar/Portre/Wattpad Çıktısı/ŞEMA.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794433525800,
+      "mtime": 1794433531956
+    },
+    "Kitaplar/Portre/Wattpad Çıktısı/Notlar.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1794433541791,
+      "mtime": 1794433541791
     }
   },
   "showHidden": false,

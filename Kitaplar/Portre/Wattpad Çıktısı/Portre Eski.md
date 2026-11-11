@@ -1,0 +1,5 @@
+![[249409789-256-k250518.jpg]]
+
+Peter üniversite sınavının ardından hayallerine asla erişemeyeceği gerçeğiyle yüzleşen epeyce garip ve kafası karışık bir çocuktur. Ömrü boyunca kendisi hakkındaki kuşkulara direnmiş ve kendisinin diğer insanlardan daha karizmatik, özverili ve zeki olduğuna ikna olmuştur. Sınavın stresinden ve ısrarla kapısına dayanan geleceğinden kaçmak için serserilik etmeye başlayacak, arkadaşlarına ve dünyaya kendini kanıtlamak için bir uğraşa girecektir. Ancak Peter dünyaya ve geleceğin beklentilerine savaş açmışken hayallerinin ve çok geç olmadan keşfetmesi gereken öz benliğinin nihai düşmanının onu gölgelerden izlediğinin farkında bile değildir. O tökezleyip yalpalarken katil öldürücü darbeyi indirmeye hazırlanmaktadır.
+
+"Dünyadan büyük düşler kuran kişilerin kaderiydi bu, kendi mahvoluşlarını yaratmaları."

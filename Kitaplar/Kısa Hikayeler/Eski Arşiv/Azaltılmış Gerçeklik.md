@@ -1,0 +1,27 @@
+"Evvvett... hepinize merhaba arkadaşlar. Kayıttayız değil mi? Harika! Dünkü nostalji yayınımızı kaçıranlar aşağıdaki linke tıklayarak tekrarı izleyebilir. Evet, arkadaşlar dün Minecraft onyadık. Bu gün ise kutuya çıkışımın ikinci yıl dönümü, bu yüzden size özel bir sürprizim olacak."
+
+Sailas, kutusunda geçirdiği ikinci yılı kutluyordu. Kutusu onun her şeyiydi. Dört bir yanı ekranlarla çevrili, iki metre küplük küçük bir alan. Kutusu onun yedi gün yirmi dört saatini içinde geçirdiği, tuvalet veya yemek için dahi dışına çıkmadığı küçük yaşam alanıydı. Vücudu adeta bir yaşam destek ünitesine bağlıydı ve idrarı, dışkısı vücudundan otomatik alınıyor, kanına ihtiyaç duyduğu su ve yiyecek otomatik veriliyordu. Hastalanmıyor, bir yerini incitmiyor ve kaza yaşama tehlikesi taşımıyordu. Gerçeklikten tamamen soyutlanmıştı.  
+
+Üniversiteye gittiği yıllarda VLOG çekerek popülerlik kazanmış, sonunda ise bütün yayıncıların geçiş yaptığı kutulardan birine çıkacak parayı derlemiş ve üniversitesini dondurup kutuya taşınmıştı. Güneşi veya çimenleri görmeyeli iki yıl olmuştu.
+
+İkinci yılını, yayınını izlemeye gelen yedi milyon insanla beraber kutluyordu. Bilim, insan beyni ve makinelerin bilgi alış verişi yapmasını sağladığı gün bütün internet camiası değişmeye başlamıştı. Yayıncılık anlayışı değişmiş, insanların kendi beyinlerine taktırdıkları çipler sayesinde bilgisayarlara bağlanması yeni bir dünyanın kapsını aralamıştı. Artık yalnızca kendi yüzünüzü ve ekranını görüntü olarak paylaşmaktansa kişinin zihninden geçen düşünce akışları da yayımlanabiliyordu. Yazarların ve satranç oyuncularının yayınları çılgınca geçiyordu. Porno sektörü tamamen değişmişti. Sailas'ın ise kendine has fikirleri vardı.
+
+Sailas, her yeri kablolar ve serum hortumlarıyla dolu zifiri karanlık odasında, iki yıldır oturduğu, dişçi koltuğuna benzeyen kocaman siyah, arkaya yaslanmış bir koltukta oturuyordu. Gözleri açıktı ama hareketli değillerdi. O an kafasının içinde yedi milyon kişi onunla takılıyor, düşüncesel bir koro oluşturuyordu adeta. Sıradan yayınlar böyle olurdu ancak bu gün, Sailas'ın kutuya taşınmasının ikinci yıl dönümüydü. Bu yayında özel bir etkinlik yapacaklardı.
+
+"Benim gördüklerimi sizde görüp duracaksınız düşünce yayını sayesinde... evet arkadaşlar. Redditte okuduğuma göre günümüzdeki sanal gerçeklik teknolojilerinin bile ötesinde bir arttırılmış gerçeklik deneyimi varmış. Çok fena olacak yani. phelogroxx34, yirmilik için teşekkürler..." Sailas bağışları okumaya ve soruları cevaplamaya başladı.  
+
+Sailas az önce internetten indirdiği dosyayı açtı. Programın kurulumu bittikten sonra bilgisayarın güvenlik duvarını indiren ikinci bir program çalıştırdı. Bilgisayarlar insan beyniyle iletişim kurabildiği gün bu teknoloji kendine has riskleriyle ortaya çıkmıştı. İnsanlara beyin kanaması geçirten veya hafıza kayıpları yaşatan virüsler ortaya çıkmıştı. Haliyle donanım ve güvenlik şirketleri çok katı önlemler alıyorlardı. Sailas ise indirdiği sanal uyarıcı için kendi güvenlik duvarlarını birer birer indirmişti.
+
+Sanal uyuşturucular/uyarıcılar fiziksel olanlarının yaptığı şeyi yapıyordu ancak bunu sadece beyne verilen bir dizi komutla başarıyorlardı. Bu sebeple normal maddelerin barındırdığı kimyasal ve fiziksel riskleri taşımıyorlardı ancak bir yazılımın beyne doğrudan uyarılar verebiliyor olması dehşet verici riskler barındırıyordu. Öyle ya da böyle, unutulamaz bir deneyim oluyordu.
+
+Sailas indirdiği uyuşturucuyu çalıştırıp beklemeye koyuldu. Yayındaki herkes meraktaydı. Onlar Sailas'ın deneyimini birebir deneyimleyemese de onun gördüğü halüsinasyonları görüp dinleyebileceklerdi. Sinematik ve ilginç bir yayın olacaktı. Çünkü bu uyarıcı sana olduğun kişiyi unutturuyor, bambaşka birinin gözünden bambaşka bir dünya deneyimlemeni sağlıyordu. İnternette bu uyarıcı hakkında deneyimlerini paylaşan insanlar onun eşsiz ve neredeyse korkunç olduğundan bahsediyorlardı.
+
+"... s2mle200lesh, ellilik için teşekkürler. Arkadaşlar yazılımı açıyorum. İlginç bir deneyim olacak. Yedi buçuk milyon aktif izleyici, seri klip alın. Trende gireriz."
+
+Yazılım açıldı. Bütün chat çok heyecanlıydı ve Sailas kendi izlenme rekorunu kırmıştı. Aradan yaklaşık bir dakika geçti. Hiçbir etki yoktu. İnsanalar chat'e soru işaretleri yollamaya başlamışlardı bile. Silas bir şeylerin ters gittiğinden korkarak yazılımın çalışıp çalışmadığını kontrol edecekti ki...
+
+*******
+
+  
+
+(yayıncı kendi zihninin içini telepatik yayınla insanlara sergilerken sanal bir uyuşturucu kullanarak bunu yayındaki insanlara yasa dışı şekilde denettiriyor. Deneyimi onu dünyada sıradan bir üniversite öğrencisi, part time olarak bir mekanda çalışan biri olarak görmesini sağlıyor ve bu halüsinasyon esnasında gerçeklikten son derece emin hatta trajik bir olay yaşadığı için uyandıktan sonra aşırı terlemeyle travma yaşıyor. İnsanlar yayında onun gördükleriyle dalga geçerlerken o bütün kabloları ve serumları kendinden söküp kendini kutudan dışarı atıyor. Yere düştüğü gibi bacaklarını kırıyor. kıpırdayamaz şekilde yerde yüzükoyun kalıyor. Söktüğü serum ve dışkı yerlerinden kan akarken birkaç metre sürünüp ölüyor. Ve bu yayıncının hareketlerine göre odağını kendi ayarlayan bir yapayzeka kamera tarafından kayıt altına alınıyor (normalde face capture için kullandığı)
